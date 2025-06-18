@@ -14,5 +14,6 @@ Le script crée un dossier par KU, contenant un fichier `.json` pour chacune de 
 ---
 
 ## 📂 commande
-```python3 kus_split.py
+```
+python3 kus_split.py
 
