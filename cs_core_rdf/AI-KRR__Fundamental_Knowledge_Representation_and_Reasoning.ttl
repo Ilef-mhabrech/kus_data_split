@@ -1,0 +1,12 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:AI-KRR__Fundamental_Knowledge_Representation_and_Reasoning ex:csCore """1. Types of representations
+a. Symbolic, logical
+i. Creating a representation from a natural language problem statement
+b. Learned subsymbolic representations
+c. Graphical models (e.g., naive Bayes, Bayesian network)
+2. Review of probabilistic reasoning, Bayes theorem (See also: MSF-Probability)
+3. Bayesian reasoning
+a. Bayesian inference""" ;
+    ex:title "AI-KRR: Fundamental Knowledge Representation and Reasoning" .
+

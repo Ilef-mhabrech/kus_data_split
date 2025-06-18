@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Functional: Functional Programming",
+  "CS Core": "1. Develop basic algorithms that avoid assigning to mutable states or considering reference equality.\n2. Develop useful functions that take and return other functions.\n3. Compare and contrast how computational solutions to a problem differ in procedural, functional,\nand object-oriented approaches.\n4. Compare and contrast mechanisms to define and protect data elements within procedural,\nfunctional, and object-oriented approaches."
+}

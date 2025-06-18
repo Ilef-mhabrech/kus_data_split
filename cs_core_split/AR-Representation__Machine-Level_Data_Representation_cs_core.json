@@ -1,0 +1,4 @@
+{
+  "title": "AR-Representation: Machine-Level Data Representation",
+  "CS Core": "1. Overview and history of computer architecture (See also: SPD-Game)\n2. Bits, bytes, and words\n3. Unsigned, signed and two’s complement representations\n4. Numeric data representation and number bases\na. Fixed-point\nb. Floating-point\n5. Representation of non-numeric data\n6. Representation of records, arrays and UTF data types (See also: AL-Foundational)"
+}

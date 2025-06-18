@@ -1,0 +1,4 @@
+{
+  "title": "NC-Applications: Networked Applications",
+  "CS Core": "1. Naming and address schemes (e.g., DNS, and Uniform Resource Identifiers)\n2. Distributed application paradigms (e.g., client/server, peer-to-peer, cloud, edge, and fog) (See also:\nPDC-Communication, PDC-Coordination)\n3. Diversity of networked application demands (e.g., latency, bandwidth, and loss tolerance) (See\nalso: PDC-Communication, SEP-Sustainability, SEP-Context)\n4. Coverage of application-layer protocols (e.g., HTTP)\n5. Interactions with TCP, UDP, and Socket APIs (See also: PDC-Programs)"
+}

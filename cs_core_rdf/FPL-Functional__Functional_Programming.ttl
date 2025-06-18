@@ -1,0 +1,10 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:FPL-Functional__Functional_Programming ex:csCore """1. Develop basic algorithms that avoid assigning to mutable states or considering reference equality.
+2. Develop useful functions that take and return other functions.
+3. Compare and contrast how computational solutions to a problem differ in procedural, functional,
+and object-oriented approaches.
+4. Compare and contrast mechanisms to define and protect data elements within procedural,
+functional, and object-oriented approaches.""" ;
+    ex:title "FPL-Functional: Functional Programming" .
+

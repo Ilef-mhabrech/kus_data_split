@@ -1,0 +1,8 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:OS-Protection__Protection_and_Safety ex:csCore """1. Overview of operating system security mechanisms (See also: SEC-Foundations)
+2. Attacks and antagonism (scheduling, etc.) (See also: SEC-Foundations)
+3. Review of major vulnerabilities in real operating systems (See also: SEC-Foundations)
+4. Operating systems mitigation strategies such as backups (See also: SF-Reliability)""" ;
+    ex:title "OS-Protection: Protection and Safety" .
+

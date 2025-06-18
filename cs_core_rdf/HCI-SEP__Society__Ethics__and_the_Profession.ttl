@@ -1,0 +1,9 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:HCI-SEP__Society__Ethics__and_the_Profession ex:csCore """1. Universal and user-centered design (See also: HCI-User, SEP-DEIA)
+2. Accountability (See also: HCI-Accountability)
+3. Accessibility and inclusive design (See also: SEP-DEIA, SEP-Security)
+4. Evaluating the design (See also: HCI-Evaluation)
+5. System design (See also: HCI-Design)""" ;
+    ex:title "HCI-SEP: Society, Ethics, and the Profession" .
+

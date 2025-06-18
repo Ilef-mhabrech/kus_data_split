@@ -1,0 +1,6 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:DM-Modeling__Data_Modeling ex:csCore """1. Data modeling (See also: SE-Requirements)
+2. Relational data model (See also: MSF-Discrete)""" ;
+    ex:title "DM-Modeling: Data Modeling" .
+

@@ -1,0 +1,6 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:FPL-Scripting__Shell_Scripting ex:csCore """1. Create and execute automated scripts to manage various system tasks.
+2. Solve various text processing problems through scripting.""" ;
+    ex:title "FPL-Scripting: Shell Scripting" .
+

@@ -1,0 +1,7 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:SEP-History__Computing_History ex:csCore """1. The history of computing: hardware, software, and human/organizational.
+2. The role of history in the present including within different social contexts, and the relevance of this
+history on the future.""" ;
+    ex:title "SEP-History: Computing History" .
+

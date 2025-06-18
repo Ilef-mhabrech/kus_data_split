@@ -1,0 +1,12 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:HCI-User__Understanding_the_User__Individual_goals_and_interactions_with_others ex:csCore """1. User-centered design and evaluation methods. (See also: SEP-Context, SEP-Ethical-Analysis,
+SEP-Professional-Ethics)
+a. “You are not the users”
+b. User needs-finding
+c. Formative studies
+d. Interviews
+e. Surveys
+f. Usability tests""" ;
+    ex:title "HCI-User: Understanding the User: Individual goals and interactions with others" .
+

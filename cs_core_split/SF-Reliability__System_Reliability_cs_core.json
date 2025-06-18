@@ -1,0 +1,4 @@
+{
+  "title": "SF-Reliability: System Reliability",
+  "CS Core": "1. Distinction between bugs, faults, and failures (See also: PDC-Coordination, SE-Reliability)\n2. Reliability vs availability\n3. Reliability through redundancy\na. check and retry (See also: OS-Faults, NC-Reliability)\nb. redundant encoding (error correction codes, CRC, FEC, RAID) (See also: AR-Memory, NC-\nReliability, DM-Distributed)\nc. duplication/mirroring/replicas (See also: DM-Distributed)"
+}

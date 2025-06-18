@@ -1,0 +1,4 @@
+{
+  "title": "SPD-Common: Common Aspects/Shared Concerns",
+  "CS Core": "1. Overview of development platforms (i.e., web, mobile, game, robotics, embedded, and interactive).\na. Input/sensors/control devices/haptic devices\nb. Resource constraints\ni. Computational\nii. Data storage\niii. Memory\niv. Communication\nc. Requirements – security, uptime availability, fault tolerance (See also: SE-Reliability, SEC-\nEngineering)\nd. Output/actuators/haptic devices\n2. Programming via platform-specific Application Programming Interface (API) vs traditional\napplication construction\n3. Overview of platform Languages (e.g., Python, Swift, Lua, Kotlin)\n4. Programming under platform constraints and requirements (e.g., available development tools,\ndevelopment, security considerations) (See also: SEC-Foundations)\n5. Techniques for learning and mastering a platform-specific programming language"
+}

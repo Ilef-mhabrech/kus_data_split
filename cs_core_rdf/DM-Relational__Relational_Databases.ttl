@@ -1,0 +1,6 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:DM-Relational__Relational_Databases ex:csCore """1. Entity and referential integrity: Candidate key, superkeys
+2. Relational database design""" ;
+    ex:title "DM-Relational: Relational Databases" .
+

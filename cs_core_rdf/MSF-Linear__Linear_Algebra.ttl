@@ -1,0 +1,6 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:MSF-Linear__Linear_Algebra ex:csCore """1. Vectors: definitions, vector operations, geometric interpretation, angles: Matrices: definition, matrix
+operations, meaning of Ax=b.""" ;
+    ex:title "MSF-Linear: Linear Algebra" .
+

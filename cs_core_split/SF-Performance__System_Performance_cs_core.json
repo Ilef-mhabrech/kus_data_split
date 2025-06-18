@@ -1,0 +1,4 @@
+{
+  "title": "SF-Performance: System Performance",
+  "CS Core": "1. Latencies in computer systems\na. Speed of light and computers (one foot per nanosecond vs one GHz clocks) (See also: AR-\nOrganization)\nb. Memory vs disk latencies vs across-the-network memory (See also: AR-Memory, AR-\nPerformance-Energy)\n2. Caches and the effects of spatial and temporal locality on performance in processors and systems\n(See also: AR-Memory, AR-Performance-Energy, OS-Memory)\n3. Caches and cache coherency in databases, operating systems, distributed systems, and computer\narchitecture (See also: OS-Memory, AR-Memory, DM-Internals)\n4. Introduction to the processor memory hierarchy (See also: AR-Memory, AR-Performance-Energy)\n294"
+}

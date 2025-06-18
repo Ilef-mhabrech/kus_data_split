@@ -1,0 +1,6 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:SF-Design__System_Design ex:csCore """1. Common criteria of system design (e.g., liveness, safety, robustness, scalability, and security) (See
+also: PDC-Evaluation)""" ;
+    ex:title "SF-Design: System Design" .
+

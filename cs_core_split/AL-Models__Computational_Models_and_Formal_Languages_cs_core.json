@@ -1,0 +1,4 @@
+{
+  "title": "AL-Models: Computational Models and Formal Languages",
+  "CS Core": "1. Formal automata\na. Finite State\nb. Pushdown\nc. Linear Bounded\nd. Turing Machine\n2. Formal languages, grammars and Chomsky Hierarchy\n(See also: FPL-Translation, FPL-Syntax)\na. Regular (Type-3)\ni. Regular Expressions\nb. Context-Free (Type-2)\nc. Context-Sensitive (Type-1)\nd. Recursively Enumerable (Type-0)\n3. Relations among formal automata, languages, and grammars\n4. Decidability, (un)computability, and halting\n5. The Church-Turing thesis\n6. Algorithmic correctness\na. Invariants (e.g., in iteration, recursion, tree search)"
+}

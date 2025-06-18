@@ -1,0 +1,7 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:FPL-Event-Driven__Event-Driven_and_Reactive_Programming ex:csCore """1. Implement event handlers for use in reactive systems, such as GUIs.
+2. Examine why an event-driven programming style is natural in domains where programs react to
+external events.""" ;
+    ex:title "FPL-Event-Driven: Event-Driven and Reactive Programming" .
+

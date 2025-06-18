@@ -1,0 +1,9 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:SEP-IP__Intellectual_Property ex:csCore """1. Intellectual property rights
+2. Intangible digital intellectual property (IDIP)
+3. Legal foundations for intellectual property protection
+4. Common software licenses (e.g., MIT, GPL and its variants, Apache, Mozilla, Creative Commons)
+5. Plagiarism and authorship""" ;
+    ex:title "SEP-IP: Intellectual Property" .
+

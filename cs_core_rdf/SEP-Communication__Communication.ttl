@@ -1,0 +1,12 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:SEP-Communication__Communication ex:csCore """1. Oral, written, and electronic team and group communication
+2. Technical communication materials (e.g., source code, and documentation, tutorials, reference
+materials, API documentation)
+3. Communicating with different stakeholders such as customers, leadership, or the public
+4. Team collaboration (including tools) and conflict resolution
+5. Accessibility and inclusivity requirements for addressing professional audiences
+6. Cultural competence in communication including considering the impact of difference in natural
+language""" ;
+    ex:title "SEP-Communication: Communication" .
+

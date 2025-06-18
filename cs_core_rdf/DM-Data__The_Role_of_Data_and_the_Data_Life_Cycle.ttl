@@ -1,0 +1,7 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:DM-Data__The_Role_of_Data_and_the_Data_Life_Cycle ex:csCore """1. The Data Life Cycle: Creation-Processing-Review/Reporting-Retention/Retrieval-Destruction (See
+also: SEP-Context, SEP-Ethical-Analysis, SEP-Professional-Ethics, SEP-Privacy, SEP-Security,
+SEC-Foundations)""" ;
+    ex:title "DM-Data: The Role of Data and the Data Life Cycle" .
+

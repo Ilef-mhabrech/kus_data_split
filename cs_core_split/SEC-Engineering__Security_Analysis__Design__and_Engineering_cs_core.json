@@ -1,0 +1,4 @@
+{
+  "title": "SEC-Engineering: Security Analysis, Design, and Engineering",
+  "CS Core": "1. Security engineering goals: building systems that remain dependable despite errors, accidents, or\nmalicious adversaries (See also: SE-Construction, SE-Validation, SEP-Security)\n2. Privacy engineering goals: building systems that design, implement, and deploy privacy features\nand controls (See also: SEP-Privacy)\n3. Problem analysis and situational analysis to address system security (See also: SE-Validation)\n4. Engineering tradeoff analysis based on time, cost, risk tolerance, risk acceptance, return on\ninvestment, and so on (See also: PDC-Evaluation, SE-Validation)"
+}

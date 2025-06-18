@@ -1,0 +1,7 @@
+@prefix ex: <http://example.org/ku/> .
+
+ex:DM-Querying__Query_Construction ex:csCore """1. SQL Query Formation
+a. Interactive SQL execution
+b. Programmatic execution of an SQL query""" ;
+    ex:title "DM-Querying: Query Construction" .
+

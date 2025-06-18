@@ -1,0 +1,4 @@
+{
+  "title": "OS-Concurrency: Concurrency",
+  "CS Core": "1. Thread abstraction relative to concurrency\n2. Race conditions, critical regions (role of interrupts, if needed) (See also: PDC-Programs)\n3. Deadlocks and starvation (See also: PDC-Coordination)\n4. Multiprocessor issues (spin-locks, reentrancy).\n5. Multiprocess concurrency vs multithreading"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Types: Type Systems",
+  "CS Core": "1. Describe, for both a primitive and a compound type, the values that have that type.\n137\n2. Describe, for a language with a static type system, the operations that are forbidden statically, such\nas passing the wrong type of value to a function or method.\n3. Describe examples of program errors detected by a type system.\n4. Identify program properties, for multiple programming languages, that are checked statically and\nprogram properties that are checked dynamically.\n5. Describe an example program that does not type-check in a particular language and yet would have\nno error if run.\n6. Use types and type-error messages to write and debug programs."
+}

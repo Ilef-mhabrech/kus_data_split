@@ -1,0 +1,4 @@
+{
+  "title": "SEP-Sustainability: Sustainability",
+  "CS Core": "1. Environmental, social, and cultural impacts of implementation decisions (e.g., sustainability goals,\nalgorithmic bias/outcomes, economic viability, and resource consumption)\n2. Local/regional/global social and environmental impacts of computing systems and their use (e.g.,\ncarbon footprints, resource usage, e-waste) due to hardware (e.g., e-waste, data centers, rare\nelement and resource utilization, recycling) and software (e.g., cloud-based services, blockchain,\nAI model training and use). This includes everyday use of hardware (cheap hardware replaced\nfrequently) and software (web-browsing, email, and other services with hidden/remote\ncomputational demands).\n3. Guidelines for sustainable design standards."
+}

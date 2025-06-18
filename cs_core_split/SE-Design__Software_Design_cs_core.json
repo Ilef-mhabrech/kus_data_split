@@ -1,0 +1,4 @@
+{
+  "title": "SE-Design: Software Design",
+  "CS Core": "1. System design principles. (See also: SF-Reliability)\na. Levels of abstraction (e.g., architectural design and detailed design)\nb. Separation of concerns\nc. Information hiding\nd. Coupling and cohesion\n2. Software architecture. (See also: SF-Reliability)\na. Design paradigms\ni. Top-down functional decomposition/layered design\nii. Data-oriented architecture\niii. Object-oriented analysis and design\niv. Event-driven design\nb. Standard architectures (e.g., client-server and microservice architectures including REST\ndiscussions, n-layer, pipes-and-filters, Model View Controller)\nc. Identifying component boundaries and dependencies\n3. Programming in the large vs programming in the small. (See also: SF-Reliability)\n4. Code smells and other indications of code quality, distinct from correctness. (See also: SEC-\nEngineering)"
+}
