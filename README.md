@@ -18,22 +18,23 @@ Sépare chaque KU en quatre fichiers `.json`, un par section, et les place dans 
 ➡️ **Commande :**
 ```bash
 python3 kus_split.py
-
+```
 
 🔹  `split_cs_core_to_files.py`
 Extrait uniquement les sections CS Core de chaque KU depuis le fichier kus.json et enregistre un fichier .json individuel par KU dans le dossier cs_core_split/.
 
-➡️ Commande :
+➡️ **Commande :**
 
 ```bash
 python3 split_cs_core_to_files.py
-
+```
 🔹 'json_to_rdf.py'
 Convertit chaque fichier .json contenant un CS Core (généré dans cs_core_split/) en un fichier RDF Turtle (.ttl), stocké dans cs_core_rdf/.
 
-➡️ Commande :
+➡️ **Commande :**
 ```bash
 python3 json_to_rdf.py 
+```
 
 📦 Résultat des traitements
 output/kus_split/ : contient les 4 fichiers .json par KU
@@ -49,3 +50,4 @@ Installe les dépendances dans un environnement virtuel :
 python3 -m venv venv
 source venv/bin/activate
 pip install rdflib
+```
