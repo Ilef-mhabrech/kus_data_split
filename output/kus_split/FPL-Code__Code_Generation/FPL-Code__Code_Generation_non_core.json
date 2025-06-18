@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Code: Code Generation",
+  "Non-core": "1. Identify all essential steps for automatically converting source code into assembly or other low-level\nlanguages.\n2. Explain the low-level code necessary for calling functions/methods in modern languages.\n3. Discuss why separate compilation requires uniform calling conventions.\n4. Discuss why separate compilation limits optimization because of unknown effects of calls.\n5. Discuss opportunities for optimization introduced by naive translation and approaches for achieving.\noptimization, such as instruction selection, instruction scheduling, register allocation, and peephole\noptimization."
+}

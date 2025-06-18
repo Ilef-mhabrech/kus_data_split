@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Syntax: Syntax Analysis",
+  "Non-core": "1. Use formal grammars to specify the syntax of languages.\n2. Illustrate the role of lookahead tables in parsing.\n3. Use declarative tools to generate parsers and scanners.\n4. Recognize key issues in syntax definitions: ambiguity, associativity, precedence."
+}

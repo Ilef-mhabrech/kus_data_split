@@ -1,0 +1,7 @@
+{
+  "title": "SEC-SEP: Society, Ethics, and the Profession",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Calculate the impact of a breakdown in security of a given system.\n2. Construct a system that conforms to security laws.\n3. Apply a set of privacy regulations to design a system that protects privacy.",
+    "KA Core": "4. Evaluate the legal ramifications of a system not corresponding to applicable laws and regulations.\n5. Construct a system that is designed to avoid harm to user privacy."
+  }
+}

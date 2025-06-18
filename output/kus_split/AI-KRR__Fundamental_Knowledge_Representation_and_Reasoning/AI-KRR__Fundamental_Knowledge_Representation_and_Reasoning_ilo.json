@@ -1,0 +1,4 @@
+{
+  "title": "AI-KRR: Fundamental Knowledge Representation and Reasoning",
+  "Illustrative Learning Outcomes": "1. Given a natural language problem statement, encode it as a symbolic or logical representation.\n2. Explain how we can make decisions under uncertainty, using concepts such as Bayes theorem and\nutility.\n3. Compute a probabilistic inference in a real-world problem using Bayes’ theorem to determine the\nprobability of a hypothesis given evidence.\n4. Apply Bayes’ rule to determine the probability of a hypothesis given evidence.\n5. Compute the probability of outcomes and test whether outcomes are independent.\n70"
+}

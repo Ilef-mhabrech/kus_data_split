@@ -1,0 +1,7 @@
+{
+  "title": "OS-Protection: Protection and Safety",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Understand the requirement for protection and security mechanisms in operating systems.\n2. List and describe the attack vectors that leverage OS vulnerabilities.\n3. Understand the mechanisms available in an OS to control access to resources.",
+    "KA Core": "4. Summarize the features and limitations of an operating system that impact protection and security."
+  }
+}

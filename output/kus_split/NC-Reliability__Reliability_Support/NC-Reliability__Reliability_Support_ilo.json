@@ -1,0 +1,6 @@
+{
+  "title": "NC-Reliability: Reliability Support",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe the operation of reliable delivery protocols.\n2. List the factors that affect the performance of reliable delivery protocols.\n3. Describe some TCP reliability design issues.\n4. Design and implement a simple reliable protocol."
+  }
+}

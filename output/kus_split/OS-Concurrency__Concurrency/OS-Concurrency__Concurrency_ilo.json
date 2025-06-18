@@ -1,0 +1,7 @@
+{
+  "title": "OS-Concurrency: Concurrency",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Understand the advantages and disadvantages of concurrency as inseparable functions within the\noperating system framework.\n2. Understand how architecture level implementation results in concurrency problems including race\nconditions.\n3. Understand concurrency issues in multiprocessor systems.",
+    "KA Core": "4. Understand the range of mechanisms that can be employed at the operating system level to realize\nconcurrent systems and describe the benefits of each.\n5. Understand techniques for achieving synchronization in an operating system (e.g., describe how a\nsemaphore can be implemented using OS primitives) including intra-concurrency control and use of\nhardware atomics.\n6. Accurately analyze code to identify race conditions and appropriate solutions for addressing race\nconditions.\n208"
+  }
+}

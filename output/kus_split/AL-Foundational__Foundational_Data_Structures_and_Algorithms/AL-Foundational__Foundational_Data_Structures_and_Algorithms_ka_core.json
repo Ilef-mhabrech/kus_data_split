@@ -1,0 +1,4 @@
+{
+  "title": "AL-Foundational: Foundational Data Structures and Algorithms",
+  "KA Core": "14. Sorting algorithms\na. O(n log n) complexity heapsort\nb. Pseudo O(n) complexity (e.g., bucket, counting, radix)\n15. Graph algorithms\na. Transitive closure (e.g., Warshall’s)\nb. Topological sort\n16. Matching\na. Efficient string matching (e.g., Boyer-Moore, Knuth-Morris-Pratt)\nb. Longest common subsequence matching\nc. Regular expression matching"
+}

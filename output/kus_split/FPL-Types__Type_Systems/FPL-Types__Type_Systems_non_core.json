@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Types: Type Systems",
+  "Non-core": "13. Define a type system precisely and compositionally.\n14. For various foundational type constructors, identify the values they describe and the invariants they\nenforce.\n15. Precisely describe the invariants preserved by a sound type system.\n16. Prove type safety for a simple language in terms of preservation and progress theorems.\n17. Implement a unification-based type-inference algorithm for a simple language.\n18. Explain how static overloading and associated resolution algorithms influence the dynamic behavior\nof programs."
+}

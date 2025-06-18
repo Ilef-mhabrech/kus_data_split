@@ -1,0 +1,4 @@
+{
+  "title": "OS-Concurrency: Concurrency",
+  "KA Core": "6. Thread creation, states, structures (See also: SF-Foundations)\n7. Thread APIs\n8. Deadlocks and starvation (necessary conditions/mitigations) (See also: PDC-Coordination)\n9. Implementing thread safe code (semaphores, mutex locks, condition variables). (See also: AR-\nPerformance-Energy, SF-Evaluation, PDC-Evaluation)\n10. Race conditions in shared memory (See also: PDC-Coordination)\nNon-Core:\n11. Managing atomic access to OS objects (e.g., big kernel lock vs many small locks vs lockless data\nstructures like lists)"
+}

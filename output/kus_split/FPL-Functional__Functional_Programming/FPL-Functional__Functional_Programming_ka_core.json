@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Functional: Functional Programming",
+  "KA Core": "5. Explain a simple example of lambda expression being implemented using a virtual machine, such\nas a SECD machine, showing storage and reclaim of the environment.\n6. Correctly interpret variables and lexical scope in a program using function closures.\n7. Use functional encapsulation mechanisms such as closures and modular interfaces.\n8. Compare and contrast stateful vs stateless execution.\n9. Define and use iterators and other operations on aggregates, including operations that take\nfunctions as arguments, in multiple programming languages, selecting the most natural idioms for\neach language. (See also: FPL-OOP)"
+}

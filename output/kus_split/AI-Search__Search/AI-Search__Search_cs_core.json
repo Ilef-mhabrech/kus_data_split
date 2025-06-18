@@ -1,0 +1,4 @@
+{
+  "title": "AI-Search: Search",
+  "CS Core": "1. State space representation of a problem\na. Specifying states, goals, and operators\nb. Factoring states into representations (hypothesis spaces)\nc. Problem solving by graph search\ni. e.g., Graphs as a space, and tree traversals as exploration of that space\nii. Dynamic construction of the graph (not given upfront)\n2. Uninformed graph search for problem solving (See also: AL-Foundational)\na. Breadth-first search\nb. Depth-first search\ni. With iterative deepening\nc. Uniform cost search\n3. Heuristic graph search for problem solving (See also: AL-Strategies)\na. Heuristic construction and admissibility\nb. Hill-climbing\nc. Local minima and the search landscape\ni. Local vs global solutions\nd. Greedy best-first search\ne. A* search\n68\n4. Space and time complexities of graph search algorithms"
+}

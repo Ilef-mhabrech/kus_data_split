@@ -1,0 +1,6 @@
+{
+  "title": "SDF-Algorithms: Algorithms",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Explain the role of algorithms for writing programs.\n2. Demonstrate how a problem may be solved by different algorithms, each with different properties.\n3. Explain some common algorithms (e.g., sorting, searching, tree traversal, graph traversal).\n4. Explain the impact on space/time performance of some algorithms."
+  }
+}

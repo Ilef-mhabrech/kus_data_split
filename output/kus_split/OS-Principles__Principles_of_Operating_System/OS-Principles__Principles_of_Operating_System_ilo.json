@@ -1,0 +1,6 @@
+{
+  "title": "OS-Principles: Principles of Operating System",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Understand how the application of software design approaches to operating systems\ndesign/implementation (e.g., layered, modular, etc.) affects the robustness and maintainability of an\noperating system.\n2. Categorize system calls by purpose.\n3. Understand dynamics of invoking a system call (e.g., passing parameters, mode change).\n4. Evaluate whether a function can be implemented in the application layer or can only be\naccomplished by system calls.\n207\n5. Apply OS techniques for isolation, protection, and throughput across OS functions (e.g., starvation\nsimilarities in process scheduling, disk request scheduling, semaphores, etc.) and beyond.\n6. Understand how the separation into kernel and user mode affects safety and performance.\n7. Understand the advantages and disadvantages of using interrupt processing in enabling\nmultiprogramming.\n8. Analyze potential vectors of attack via the operating systems and the security features designed to\nguard against them."
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AR-Heterogeneity: Heterogeneous Architectures",
+  "KA Core": "1. SIMD and MIMD architectures (e.g., General-Purpose GPUs, TPUs, and NPUs) (See also: PDC-\nPrograms, SPD-Embedded, GIT-Shading, SPD-Game)\n2. Heterogeneous memory systems (See also: OS-Process, PDC-Communication)\na. Shared memory versus distributed memory\nb. Volatile vs non-volatile memory\nc. Coherence protocols\n3. Domain-Specific Architectures (DSAs) (See also: HCI-Accountability, GIT-Shading)\na. Machine Learning Accelerator\nb. In-networking computing (See also: NC-Applications)\nc. Embedded systems for emerging applications\nd. Neuromorphic computing\ne. Edge computing devices\n4. Packaging and integration solutions such as 3DIC and chiplets\n5. Machine learning in architecture design\na. AI algorithms for workload analysis\nb. Optimization of architecture configurations for performance and power efficiency"
+}

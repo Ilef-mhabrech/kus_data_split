@@ -1,0 +1,6 @@
+{
+  "title": "SEC-Forensics: Digital Forensics",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain what a digital investigation is and how it can be implemented (See also: SEP-Security)\n2. Design and implement software to support forensics.\n3. Describe legal requirements for using seized data and its usage. (See also: SEP-Security)\n4. Describe and implement an end-to-end chain of custody from initial digital evidence seizure to\nevidence disposal. (See also: SEP-Privacy, SEP-Security)\n5. Extract data from a hard drive to comply with the law (See also: SEP-Security)\n6. Discuss a person’s professional responsibilities and liabilities when testifying as a forensics expert\n(See also: SEP-Professional-Ethics)\n7. Recover data based on a given search term from an imaged system\n8. Reconstruct data and events from an application history, or a web artifact, or a cloud database, or a\nmobile device. (See also: SPD-Mobile, SPD-Web)\n9. Capture and analyze network traffic. (See also: NC-Security)\n10. Develop approaches to address the challenges associated with mobile device forensics.\n11. Apply forensics tools to investigate security breaches.\n12. Identify and mitigate anti-forensic methods."
+  }
+}

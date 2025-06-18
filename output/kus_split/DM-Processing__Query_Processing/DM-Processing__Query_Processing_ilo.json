@@ -1,0 +1,6 @@
+{
+  "title": "DM-Processing: Query Processing",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe the purpose and organization of both B+ tree and hash index structures.\n2. Compose an SQL command to create an index (any kind).\n3. Specify the steps for the various query operator algorithms: external sorting, projection with\nduplicate elimination, sort-merge join, hash-join, block nested-loop join.\n4. Derive the run-time (in I/O requests) for each of the above algorithms.\n5. Transform a query in relational algebra to its equivalent appropriate for a left-deep, pipelined\nexecution.\n6. Compute selectivity estimates for a given selection and/or join operation.\n7. Describe how to modify an index structure to facilitate an index-only operation for a given relation.\n8. For a given scenario decide on which indices to support for the efficient execution of a set of\nqueries.\n9. Describe how DBMSs leverage parallelism to speed up query processing by dividing the work\nacross multiple processors or nodes."
+  }
+}

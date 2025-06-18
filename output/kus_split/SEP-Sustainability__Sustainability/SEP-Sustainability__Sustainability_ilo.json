@@ -1,0 +1,7 @@
+{
+  "title": "SEP-Sustainability: Sustainability",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Identify ways to be a sustainable practitioner in a specific area or with a specific project.\n2. Assess the environmental impacts of a given project’s deployment (e.g., energy consumption,\ncontribution to e-waste, impact of manufacturing).\n3. Describe global social and environmental impacts of computer use and disposal.\n4. List the sustainable effects of modern practices and activities (e.g., remote work, e-commerce,\ncryptocurrencies, AI models, data centers).",
+    "KA Core": "281\n5. Describe the environmental impacts of design choices within the field of computing that relate to\nalgorithm design, operating system design, networking design, database design, etc.\n6. Analyze the social and environmental impacts of new system designs.\n7. Design guidelines for sustainable IT design or deployment in areas such as smart energy systems,\nsocial networking, transportation, agriculture, supply-chain systems, environmental monitoring, and\ncitizen activism.\n8. Assess computing applications in respect to environmental issues (e.g., energy, pollution, resource\nusage, recycling and reuse, food management and production)."
+  }
+}

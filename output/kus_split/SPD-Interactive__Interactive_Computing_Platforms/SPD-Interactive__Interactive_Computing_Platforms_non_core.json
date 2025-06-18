@@ -1,0 +1,4 @@
+{
+  "title": "SPD-Interactive: Interactive Computing Platforms",
+  "Non-core": "1. Data Analysis Platforms\na. Jupyter notebooks; Google Colab; R; SPSS; Observable.\nb. Cloud SQL/data analysis platforms (e.g., BigQuery) (See also: DM-Querying)\ni. Apache Spark\nii. Data Visualizations (See also: GIT-Visualization)\nc. Interactive presentations backed by data\nd. Design tools requiring low-latency feedback loops\ni. Rendering tools\nii. Graphic design tools\n2. Prompt programming\na. Generative AI (e.g., OpenAI’s ChatGPT, OpenAI’s Codex, GitHub’s Copilot) and LLMs are\naccessed/interacted\n308\n3. Quantum Platforms (See also: AR-Quantum)\na. Program quantum logic operators in quantum machines.\nb. Use API for available quantum services\nc. Signal analysis/Fourier analysis/Signal processing (for music composition, audio/RF\nanalysis) (See also: GIT-Image)"
+}

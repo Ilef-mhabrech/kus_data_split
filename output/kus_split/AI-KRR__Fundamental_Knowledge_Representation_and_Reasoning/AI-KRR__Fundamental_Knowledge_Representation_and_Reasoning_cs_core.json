@@ -1,0 +1,4 @@
+{
+  "title": "AI-KRR: Fundamental Knowledge Representation and Reasoning",
+  "CS Core": "1. Types of representations\na. Symbolic, logical\ni. Creating a representation from a natural language problem statement\nb. Learned subsymbolic representations\nc. Graphical models (e.g., naive Bayes, Bayesian network)\n2. Review of probabilistic reasoning, Bayes theorem (See also: MSF-Probability)\n3. Bayesian reasoning\na. Bayesian inference"
+}

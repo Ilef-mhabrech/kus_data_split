@@ -1,0 +1,4 @@
+{
+  "title": "OS-SEP: Society, Ethics, and the Profession",
+  "KA Core": "1. Open source in operating systems. (See also: SEP-IP)\nExample concepts:\na. Identification of vulnerabilities in open-source kernels,\nb. Open-source guest operating systems,\nc. Open-source host operating systems, and\nd. Changes in monetization (paid vs free upgrades).\n2. End-of-life issues with sunsetting operating systems.\nExample concept: Privacy implications of using proprietary operating systems/operating\nenvironments, including telemetry, automated scanning of personal data, built-in advertising, and\nautomatic cloud integration."
+}

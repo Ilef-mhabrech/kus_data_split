@@ -1,0 +1,4 @@
+{
+  "title": "AI-NLP: Natural Language Processing",
+  "Non-core": "79\n1. Deterministic and stochastic grammars\n2. Parsing algorithms\na. CFGs and chart parsers (e.g., CYK)\nb. Probabilistic CFGs and weighted CYK\n3. Representing meaning/Semantics\na. Logic-based knowledge representations\nb. Semantic roles\nc. Temporal representations\nd. Beliefs, desires, and intentions\n4. Corpus-based methods\n5. N-grams and HMMs\n6. Smoothing and backoff\n7. Examples of use: POS tagging and morphology\n8. Information retrieval (See also: DM-Unstructured)\na. Vector space model\ni. TF & IDF\nb. Precision and recall\n9. Information extraction\n10. Language translation\n11. Text classification, categorization\na. Bag of words model\n12. Deep learning for NLP (See also: AI-ML)\na. RNNs\nb. Transformers\nc. Multi-modal embeddings (e.g., images + text)\nd. Generative language models"
+}

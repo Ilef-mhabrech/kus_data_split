@@ -1,0 +1,6 @@
+{
+  "title": "DM-Core: Core Database System Concepts",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Identify at least four advantages that using a database system provides.\n2. Enumerate the components of a (relational) database system.\n3. Follow a query as it is processed by the components of a (relational) database system.\n4. Defend the value of data independence.\n5. Compose a simple select-project-join query in SQL.\n6. Enumerate the four properties of a correct transaction manager.\n7. Describe the advantages for eliminating duplicate repeated data.\n8. Outline how MapReduce uses parallelism to process data efficiently.\n9. Evaluate the differences between structured and semi/unstructured databases."
+  }
+}

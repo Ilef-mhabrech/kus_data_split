@@ -1,0 +1,6 @@
+{
+  "title": "SDF-Practices: Software Development Practices",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Develop tests for modules and apply a variety of strategies to design test cases.\n2. Explain some limitations of testing programs.\n3. Build, execute, and debug programs using a modern IDE and associated tools such as visual\ndebuggers.\n232\n4. Apply basic programming style guidelines to aid readability of programs such as comments,\nindentation, proper naming of variables, etc.\n5. Write specifications of a module as module comment describing its functionality."
+  }
+}

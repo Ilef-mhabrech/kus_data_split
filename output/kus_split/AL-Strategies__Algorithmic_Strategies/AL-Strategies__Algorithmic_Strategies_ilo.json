@@ -1,0 +1,6 @@
+{
+  "title": "AL-Strategies: Algorithmic Strategies",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. For each of the paradigms in this unit,\na. Explain its definitional characteristics,\nb. Explain an example that demonstrates the paradigm including how this example satisfies the\nparadigm’s characteristics.\n2. For each of the algorithms in the AL-Foundational unit, explain the paradigm used by the algorithm\nand how it exemplifies this paradigm.\n3. Given an algorithm, explain the paradigm used by the algorithm and how it exemplifies this\nparadigm.\n4. Give a real-world problem, evaluate appropriate algorithmic paradigms and algorithms from these\nparadigms that address the problem including evaluating the tradeoffs among the paradigms and\nalgorithms selected.\n5. Give examples of iterative and recursive algorithms that solve the same problem, explain the\nbenefits and disadvantages of each approach.\n6. Evaluate whether a greedy approach leads to an optimal solution.\n7. Explain various approaches for addressing computational problems whose algorithmic solutions are\nexponential."
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "title": "SPD-Robot: Robot Platforms",
+  "KA Core": "1. Types of robotic platforms and devices (See also: AI-Robotics)\n2. Sensors, embedded computation, and effectors (actuators) (See also: GIT-Physical)\n3. Robot-specific languages and libraries (See also: AI-Robotics)\n4. Robotic software architecture (e.g., using the Robot Operating System (ROS))\n304\n5. Robotic platform constraints and design considerations (See also: AI-Robotics)\n6. Interconnections with physical or simulated systems (See also: GIT-Physical, GIT-Simulation)\n7. Robotic Algorithms (See also: AI-Robotics, GIT-Animation)\na. Forward kinematics\nb. Inverse kinematics\nc. Dynamics\nd. Navigation and path planning\ne. Grasping and manipulation\n8. Safety and interaction considerations (See also: SEP-Professional-Ethics, SEP-Context)"
+}

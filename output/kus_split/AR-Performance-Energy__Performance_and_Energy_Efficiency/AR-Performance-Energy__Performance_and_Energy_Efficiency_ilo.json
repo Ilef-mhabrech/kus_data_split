@@ -1,0 +1,6 @@
+{
+  "title": "AR-Performance-Energy: Performance and Energy Efficiency",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Discuss performance and energy efficiency evaluation metrics.\n2. Analyze a speculative execution diagram and write about the decisions that can be made.\n3. Create a GPU performance-watt benchmarking diagram.\n4. Write a multithreaded program that adds (in parallel) elements of two integer vectors.\n5. Recommend a set of design choices for alternative computer architectures.\n106\n6. Enumerate key concepts associated with dynamic voltage and frequency scaling.\n7. Measure energy savings improvement for an 8-bit integer quantization compared to a 32-bit\nquantization."
+  }
+}

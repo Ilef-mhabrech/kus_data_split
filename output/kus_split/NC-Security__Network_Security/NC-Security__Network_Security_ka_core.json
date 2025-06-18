@@ -1,0 +1,4 @@
+{
+  "title": "NC-Security: Network Security",
+  "KA Core": "1. General intro about security (Threats, vulnerabilities, and countermeasures) (See also: SEP-\nSecurity, SEC-Foundations, SEC-Engineering)\n2. Network specific threats and attack types (e.g., denial of service, spoofing, sniffing and traffic\nredirection, attacker-in-the-middle, message integrity attacks, routing attacks, ransomware, and\ntraffic analysis) (See also: SEC-Foundations, SEC-Engineering)\n3. Countermeasures (: SEC-Foundations, SEC-Crypto, SEC-Engineering)\na. Cryptography (e.g. SSL, TLS, symmetric/asymmetric)\nb. Architectures for secure networks (e.g., secure channels, secure routing protocols, secure\nDNS, VPNs, DMZ, Zero Trust Network Access, hyper network security, anonymous\ncommunication protocols, isolation)\nc. Network monitoring, intrusion detection, firewalls, spoofing and DoS protection, honeypots,\ntracebacks, BGP Sec, RPKI"
+}

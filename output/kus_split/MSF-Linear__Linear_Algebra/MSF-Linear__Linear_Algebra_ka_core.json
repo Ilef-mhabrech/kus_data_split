@@ -1,0 +1,4 @@
+{
+  "title": "MSF-Linear: Linear Algebra",
+  "KA Core": "2. Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices\n3. Solving equations, row-reduction\n4. Linear independence, span, basis\n5. Orthogonality, projection, least-squares, orthogonal bases\n6. Linear combinations of polynomials, Bezier curves\n7. Eigenvectors and eigenvalues\n8. Applications to computer science: Principal Components Analysis (PCA), Singular Value\nDecomposition (SVD), page-rank, graphics"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AR-Memory: Memory Hierarchy",
+  "CS Core": "1. Memory hierarchy: the importance of temporal and spatial locality (See also: SF-Performance, OS-\nMemory)\n2. Main memory organization and operations (See also: OS-Memory)\n3. Persistent memory (e.g., SSD, standard disks)\n4. Latency, cycle time, bandwidth, and interleaving (See also: SF-Performance)\n5. Cache memories (See also: SF-Performance)\na. Address mapping\nb. Block size\n104\nc. Replacement and store policy\nd. Prefetching\n6. Multiprocessor cache coherence (See also: OS-Scheduling)\n7. Virtual memory (hardware support) (See also: OS-Memory)\n8. Fault handling and reliability (See also: SF-Reliability)\n9. Reliability (See also: SF-Reliability, OS-Faults)\na. Error coding\nb. Data compression\nc. Data integrity"
+}

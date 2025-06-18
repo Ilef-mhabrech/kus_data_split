@@ -1,0 +1,7 @@
+{
+  "title": "SF-Performance: System Performance",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Describe the breakdown of the latency of computer systems in terms of memory, disk, and network.\n2. Explain the importance of locality in determining system performance.\n3. Calculate average memory access time and describe the tradeoffs in memory hierarchy\nperformance in terms of capacity, miss/hit rate, and access time.",
+    "KA Core": "4. Explain why it is important to isolate and protect the execution of individual programs and\nenvironments that share common underlying resources.\n5. Describe how the concept of indirection can create the illusion of a dedicated machine and its\nresources even when physically shared among multiple programs and environments.\n6. Evaluate the performance of two application instances running on separate virtual machines and\ndetermine the effect of performance isolation."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "title": "SPD-Mobile: Mobile Platforms",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Compare mobile programming with general-purpose programming.\n2. Develop a location-aware mobile application with data API integration.\n3. Build a sensor-driven mobile application capable of logging data on a remote server.\n4. Create a communication app incorporating telephony and instant messaging.\n5. Evaluate the pros and cons of native and cross-platform mobile application development."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "AL-Foundational: Foundational Data Structures and Algorithms",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. For each ADT/Data-Structure in this unit\na. Explain its definition, properties, representation(s), and associated ADT operations.\nb. Explain step-by-step how the ADT operations associated with the data structure transform it.\n2. For each algorithm in this unit explain step-by-step how the algorithm operates.\n3. For each algorithmic approach (e.g., sorting) in this unit apply a prototypical example of the\napproach (e.g., merge sort).\n89\n4. Given requirements for a problem, develop multiple solutions using various data structures and\nalgorithms. Subsequently, evaluate the suitability, strengths, and weaknesses selecting an\napproach that best satisfies the requirements.\n5. Explain how collision avoidance and collision resolution is handled in hash tables.\n6. Explain factors beyond computational efficiency that influence the choice of algorithms, such as\nprogramming time, maintainability, and the use of application-specific patterns in the input data.\n7. Explain the heap property and the use of heaps as an implementation of a priority queue.",
+    "KA Core": "8. For each of the algorithms and algorithmic approaches in the KA Core topics:\na. Explain a prototypical example of the algorithm, and\nb. Explain step-by-step how the algorithm operates.",
+    "Non-core": "9. An appreciation of quantum computation and its application to certain problems."
+  }
+}

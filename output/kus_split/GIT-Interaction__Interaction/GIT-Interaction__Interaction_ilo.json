@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Interaction: Interaction",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Create a simple game that responds to single channel mouse and keyboard events.\n2. Create a mobile app that responds to touch events.\n3. Design and create an application that responds to different event triggers.\nNone-core:\n4. Assess the consistency or lack of consistency in cross-platform touch screen gestures.\n5. Design and create an application that provides haptic feedback.\n6. Write a program that is controlled by gestures."
+  }
+}

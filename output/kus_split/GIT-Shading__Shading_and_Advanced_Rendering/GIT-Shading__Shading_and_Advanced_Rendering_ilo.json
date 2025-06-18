@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Shading: Shading and Advanced Rendering",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe how an algorithm estimates a solution to the rendering equation.\n2. Discuss the properties of a rendering algorithm (e.g., complete, consistent, and unbiased).\n3. Analyze the bandwidth and computation demands of a simple shading algorithm.\n4. Implement a non-trivial shading algorithm (e.g., toon shading, cascaded shadow maps) under a\nrasterization API.\n159\n5. State how a particular artistic technique might be implemented in a renderer.\n6. Describe how one might recognize the shading techniques used to create a particular image.\n7. Write a program that implements any of the specified graphics techniques using a primitive graphics\nsystem at the individual pixel level.\n8. Write a ray tracer for scenes using a simple (e.g., Phong’s) Bidirectional Reflection Distribution\nFunction (BRDF) plus reflection and refraction."
+  }
+}

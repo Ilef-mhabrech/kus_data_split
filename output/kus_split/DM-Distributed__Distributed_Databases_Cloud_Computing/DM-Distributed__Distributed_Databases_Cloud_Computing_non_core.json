@@ -1,0 +1,4 @@
+{
+  "title": "DM-Distributed: Distributed Databases/Cloud Computing",
+  "Non-core": "1. Distributed DBMS (See also: PDC-Communications)\na. Distributed data storage\nb. Distributed query processing\nc. Distributed transaction model\nd. Homogeneous and heterogeneous solutions\ne. Client-server distributed databases (See also: NC-Fundamentals)\n2. Parallel DBMS (See also: PDC-Algorithms)\na. Parallel DBMS architectures: shared memory, shared disk, shared nothing;\nb. Speedup and scale-up, e.g., use of the MapReduce processing model (See also: PDC-\nPrograms, SF-Foundations)\nc. Data replication and weak consistency models (See also: PDC-Coordination)"
+}

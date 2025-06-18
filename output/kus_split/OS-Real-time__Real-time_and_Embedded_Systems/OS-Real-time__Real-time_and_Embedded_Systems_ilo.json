@@ -1,0 +1,6 @@
+{
+  "title": "OS-Real-time: Real-time and Embedded Systems",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain what makes a system a real-time system.\n2. Explain latency and its sources in software systems and its characteristics.\n3. Explain special concerns that real-time systems present, including risk, and how these concerns are\naddressed.\nNon-Core:\n4. Explain specific real time operating systems features and mechanisms."
+  }
+}

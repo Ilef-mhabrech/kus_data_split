@@ -1,0 +1,4 @@
+{
+  "title": "DM-Modeling: Data Modeling",
+  "Non-core": "5. Spreadsheet models\n6. Object-oriented models (See also: FPL-OOP)\na. GraphQL\n7. New features in SQL\n8. Specialized Data Modeling topics\na. Time series data (aggregation, join)\nb. Graph data (link traversal)\n116\nc. Techniques for avoiding inefficient raw data access (e.g., “avg daily price”): materialized views\nand special data structures (e.g., Hyperloglog, bitmap)\nd. Geo-Spatial data (e.g., GIS databases) (See also: SPD-Interactive)"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "DM-Security: Data Security and Privacy",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Describe the differences in the goals for data security and data privacy.\n2. Identify and mitigate risks associated with different approaches to protecting data.\n3. Describe legal and ethical considerations of end-to-end data security and privacy.",
+    "KA Core": "4. Develop a database auditing system given risk considerations.\n5. Apply several data exploration approaches to understanding unfamiliar datasets."
+  }
+}

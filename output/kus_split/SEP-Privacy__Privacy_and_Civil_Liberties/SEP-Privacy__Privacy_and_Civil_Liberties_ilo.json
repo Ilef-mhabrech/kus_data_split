@@ -1,0 +1,7 @@
+{
+  "title": "SEP-Privacy: Privacy and Civil Liberties",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Evaluate solutions to privacy threats in transactional databases and data warehouses.\n2. Describe the role of data collection in the implementation of pervasive surveillance systems (e.g.,\nRFID, face recognition, toll collection, mobile computing).\n3. Distinguish the concepts and goals of anonymity and pseudonymity.\n4. Describe the ramifications of technology-based privacy protections, including differential privacy\nand end-to-end encryption.\n5. Identify cultural differences regarding the nature and necessity of privacy and other civil liberties.",
+    "KA Core": "6. Discuss the philosophical basis for the legal protection of personal privacy in an appropriate\ncontext (e.g., country).\n7. Critique the intent, potential value, and implementation of various forms of privacy legislation and\nprinciples beyond what the law requires.\n8. Identify strategies to enable appropriate freedom of expression."
+  }
+}

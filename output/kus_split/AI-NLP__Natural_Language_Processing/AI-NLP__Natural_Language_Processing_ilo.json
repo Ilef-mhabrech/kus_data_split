@@ -1,0 +1,4 @@
+{
+  "title": "AI-NLP: Natural Language Processing",
+  "Illustrative Learning Outcomes": "1. Define and contrast deterministic and stochastic grammars, providing examples to show the\nadequacy of each.\n2. Simulate, apply, or implement classic and stochastic algorithms for parsing natural language.\n3. Identify the challenges of representing meaning.\n4. List the advantages of using standard corpora. Identify examples of current corpora for a variety of\nNLP tasks.\n5. Identify techniques for information retrieval, language translation, and text classification.\n6. Implement a TF/IDF transform, use it to extract features from a corpus, and train an off-the-shelf\nmachine learning algorithm using those features to do text classification."
+}

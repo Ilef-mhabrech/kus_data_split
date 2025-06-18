@@ -1,0 +1,4 @@
+{
+  "title": "OS-Virtualization: Virtualization",
+  "Non-core": "6. Types of virtualizations (including hardware/software, OS, server, service, network). (See also: SF-\nPerformance)\n7. Portable virtualization; emulation vs isolation. (See also: SF-Performance)\n8. Cost of virtualization. (See also: SF-Performance)\n9. Virtual machines and container escapes, dangers from a security perspective. (See also: SEC-\nEngineering)\n10. Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM"
+}

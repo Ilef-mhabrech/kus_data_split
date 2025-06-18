@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Aspect: Aspect-Oriented Programming",
+  "Non-core": "1. Aspects\n2. Join points\n3. Advice\na. Before\nb. After (as finally, returning or throwing)\nc. Around\n4. Point cuts\na. Designators\n5. Weaving – static and dynamic\n6. Alternatives including annotations and IDEs"
+}

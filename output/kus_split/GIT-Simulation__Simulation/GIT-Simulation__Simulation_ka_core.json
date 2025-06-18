@@ -1,0 +1,4 @@
+{
+  "title": "GIT-Simulation: Simulation",
+  "KA Core": "1. Collision detection and response\na. Signed Distance Fields\nb. Sphere/sphere\nc. Triangle/point\nd. Edge/edge\n2. Procedural animation using noise\n3. Particle systems\na. Integration methods (e.g., forward Euler, midpoint, leapfrog)\nb. Mass/spring networks\nc. Position-based dynamics\nd. Rules (e.g., boids, crowds)\ne. Rigid bodies\n4. Grid-based fluids\na. Semi-Lagrangian advection\nb. Pressure projection\n5. Heightfields\na. Terrain: transport, erosion\nb. Water: ripple, shallow water.\n6. Rule-based systems (e.g., L-systems, space-colonizing systems, Game of Life)"
+}

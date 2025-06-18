@@ -1,0 +1,6 @@
+{
+  "title": "OS-Devices: Device management",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "211\n1. Explain architecture level device control implementation and link relevant operating system\nmechanisms and policy (e.g., buffering strategies, direct memory access).\n2. Explain OS device management layers and the architecture (e.g., device controller, device driver,\ndevice abstraction).\n3. Explain the relationship between the physical hardware and the virtual devices maintained by the\noperating system.\n4. Explain I/O data buffering and describe strategies for implementing it.\n5. Describe the advantages and disadvantages of direct memory access and discuss the\ncircumstances in which its use is warranted.\nNon-Core:\n6. Describe the complexity and best practices for the creation of device drivers."
+  }
+}

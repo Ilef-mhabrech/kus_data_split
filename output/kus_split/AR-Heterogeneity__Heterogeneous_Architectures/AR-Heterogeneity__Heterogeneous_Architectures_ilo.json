@@ -1,0 +1,4 @@
+{
+  "title": "AR-Heterogeneity: Heterogeneous Architectures",
+  "Illustrative Learning Outcomes": "KA Core\n1. Analyze a system diagram with alternative parallel architectures, e.g., SIMD and MIMD, and identify\nthe key differences.\n2. Discuss what memory-management issues are found in multiprocessors that are not present in\nuniprocessors and how these issues might be resolved.\n3. Indicate the differences between memory backplane, processor memory interconnect, and remote\nmemory via networks, their implications for access latency, and their impact on program\nperformance.\n4. Discuss how you would determine when to use a domain-specific accelerator instead of a general-\npurpose CPU.\n5. Enumerate key differences in architectural design principles between a vector and scalar-based\nprocessing unit.\n6. List the advantages and disadvantages of a PIM architecture."
+}

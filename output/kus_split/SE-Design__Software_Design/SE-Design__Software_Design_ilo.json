@@ -1,0 +1,7 @@
+{
+  "title": "SE-Design: Software Design",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Identify the standard software architecture of a given high-level design.\n2. Select and use an appropriate design paradigm to design a simple software system and explain\nhow system design principles have been applied in this design.\n3. Adapt a flawed system design to better follow principles such as separation of concerns or\ninformation hiding.\n4. Identify the dependencies among a set of software components in an architectural design.",
+    "KA Core": "5. Design an API for a single component of a large software system, including identifying and\ndocumenting each operation’s invariants, contract, and error conditions.\n6. Evaluate an API description in terms of consistency, composability, and expandability.\n7. Expand an existing design to include a new piece of functionality.\n8. Design a set of data structures to implement a provided API surface.\n9. Identify which requirements are satisfied by a provided software design.\nNon-Core:\n10. Translate a natural language software design into class diagrams.\n11. Adapt a flawed system design to better follow the principles of least privilege and fail-safe defaults.\n12. Contrast two software designs across different qualities, such as efficiency or usability.\n244"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "title": "OS-Protection: Protection and Safety",
+  "CS Core": "1. Overview of operating system security mechanisms (See also: SEC-Foundations)\n2. Attacks and antagonism (scheduling, etc.) (See also: SEC-Foundations)\n3. Review of major vulnerabilities in real operating systems (See also: SEC-Foundations)\n4. Operating systems mitigation strategies such as backups (See also: SF-Reliability)"
+}

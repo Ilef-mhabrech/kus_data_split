@@ -1,0 +1,7 @@
+{
+  "title": "DM-Relational: Relational Databases",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Describe the defining characteristics behind the relational data model.\n2. Comment on the difference between a foreign key and a superkey.\n3. Enumerate the different types of integrity constraints.\n117",
+    "KA Core": "4. Compose a relational schema from a conceptual schema which contains 1:1, 1:n, and n:m\nrelationships.\n5. Map appropriate file structure to relations and indices.\n6. Describe how functional dependency theory generalizes the notion of key.\n7. Defend a given decomposition as lossless and or dependency preserving.\n8. Detect which normal form a given decomposition yields.\n9. Comment on reasons for denormalizing a relation."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Modeling: Geometric Modeling",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Contrast representing curves and surfaces in both implicit and parametric forms.\n2. Create simple polyhedral models by surface tessellation.\n3. Create a mesh representation from an implicit surface.\n4. Create a fractal model or terrain using a procedural method.\n5. Create a mesh from data points acquired with a laser scanner.\n6. Create CSG models from simple primitives, such as cubes and quadric surfaces.\n7. Contrast modeling approaches with respect to space and time complexity and quality of image."
+  }
+}

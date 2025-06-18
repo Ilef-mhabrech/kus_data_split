@@ -1,0 +1,6 @@
+{
+  "title": "NC-SingleHop: Single Hop Communication",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe some basic aspects of modulation, bandwidth, and communication media.\n2. Describe in detail a MAC protocol.\n3. Demonstrate understanding of encoding and framing solution tradeoffs.\n4. Describe details of the implementation of Ethernet.\n5. Describe how switching works.\n6. Describe one kind of a LAN topology."
+  }
+}

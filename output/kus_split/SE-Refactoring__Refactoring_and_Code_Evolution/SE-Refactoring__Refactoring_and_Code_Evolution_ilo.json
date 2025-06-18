@@ -1,0 +1,4 @@
+{
+  "title": "SE-Refactoring: Refactoring and Code Evolution",
+  "Illustrative Learning Outcomes": "KA-Core:\n1. Identify both explicit and implicit behavior of an interface and identify potential risks from Hyrum’s\nLaw.\n2. Consider inputs from static analysis tools and/or Software Design principles to identify code in need\nof refactoring.\n3. Identify changes that can be broadly considered “backward compatible,” potentially with explicit\nstatements about what usage is or is not supported.\n4. Refactor the implementation of an interface to improve design, clarity, etc. with minimal/zero impact\non existing users.\n5. Evaluate whether a proposed change is sufficiently safe given the versioning methodology in use\nfor a given project.\nNon-Core:\n6. Plan a complex multi-step refactoring to change default behavior of an API safely."
+}

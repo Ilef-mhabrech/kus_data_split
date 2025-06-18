@@ -1,0 +1,4 @@
+{
+  "title": "AI-Probability: Probabilistic Representation and Reasoning",
+  "Non-core": "1. Conditional Independence review\n2. Knowledge representations\na. Bayesian Networks\ni. Exact inference and its complexity\nii. Markov blankets and d-separation\niii. Randomized sampling (Monte Carlo) methods (e.g., Gibbs sampling)\nb. Markov Networks\n77\nc. Relational probability models\nd. Hidden Markov Models\n3. Decision Theory\na. Preferences and utility functions\nb. Maximizing expected utility\nc. Game theory"
+}

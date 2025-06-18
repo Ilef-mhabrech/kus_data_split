@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Analysis: Program Analysis and Analyzers",
+  "Non-core": "1. Explain the difference between dataflow graph and control flow graph.\n2. Explain why non-trivial sound program analyses must be approximate.\n3. Argue why an analysis is correct (sound and terminating).\n4. Explain why potential aliasing limits sound program analysis and how alias analysis can help.\n5. Use the results of a program analysis for program optimization and/or partial program correctness."
+}

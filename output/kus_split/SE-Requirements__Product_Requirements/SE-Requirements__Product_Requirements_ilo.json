@@ -1,0 +1,7 @@
+{
+  "title": "SE-Requirements: Product Requirements",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Compare different methods of eliciting requirements along multiple axes.\n2. Identify differences between two methods of describing functional requirements (e.g., customer\ninterviews, user studies) and the situations where each would be preferred.\n3. Identify which behaviors are required, allowed, or barred from a given set of requirements and a list\nof candidate behaviors.\n242\n4. Collect a set of requirements for a simple software system.\n5. Identify areas of a software system that need to be changed, given a description of the system and\na set of new requirements to be implemented.\n6. Identify the functional and non-functional requirements in a set of requirements.",
+    "Non-core": "7. Create a prototype of a software system to validate a set of requirements – building a mock-up,\nMVP, etc.\n8. Estimate the time to complete a set of tasks, then compare estimates to the actual time taken.\n9. Determine an implementation sequence for a set of tasks, adhering to dependencies between\nthem, with a goal to retire risk as early as possible.\n10. Write a requirement specification for a simple software system."
+  }
+}

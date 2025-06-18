@@ -1,0 +1,4 @@
+{
+  "title": "AR-Organization: Functional Organization",
+  "KA Core": "1. Implementation of simple datapaths, including instruction pipelining, hazard detection, and\nresolution (e.g., stalls, forwarding)\n2. Control unit\na. Hardwired implementation\nb. Microprogrammed realization\n3. Instruction pipelining (See also: SF-Overview)\n4. Introduction to instruction-level parallelism (ILP) (See also: PDC-Programs)"
+}

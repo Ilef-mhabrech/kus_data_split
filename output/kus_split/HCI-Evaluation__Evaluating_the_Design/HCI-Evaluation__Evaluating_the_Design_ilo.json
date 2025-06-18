@@ -1,0 +1,8 @@
+{
+  "title": "HCI-Evaluation: Evaluating the Design",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Discuss the differences between formative and summative assessment and their role in evaluating\ndesign",
+    "KA Core": "2. Select appropriate formative or summative evaluation methods at different points throughout the\ndevelopment of a design.\n3. Discuss the benefits of using both qualitative and quantitative methods for evaluation.\n4. Evaluate the implications and broader impacts of a given design.\n5. Plan a usability evaluation for a given user interface, and justify its study goals, hypothesis design,\nand study design.\n6. Conduct a usability evaluation of a given user interface and draw defensible conclusions given the\nstudy design.",
+    "Non-core": "7. Select and run appropriate statistical tests on provided study data to test for significance in the\nresults.\n8. Pre-register a study design, with planned statistical tests."
+  }
+}

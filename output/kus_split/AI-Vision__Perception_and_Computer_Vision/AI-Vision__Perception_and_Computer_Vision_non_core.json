@@ -1,0 +1,4 @@
+{
+  "title": "AI-Vision: Perception and Computer Vision",
+  "Non-core": "1. Computer vision\na. Image acquisition, representation, processing, and properties\nb. Shape representation, object recognition, and segmentation\nc. Motion analysis\nd. Generative models\n2. Audio and speech recognition\n3. Touch and proprioception\n4. Other modalities (e.g., olfaction)\n5. Modularity in recognition\n6. Approaches to pattern recognition (See also: AI-ML)\na. Classification algorithms and measures of classification quality\nb. Statistical techniques\nc. Deep learning techniques"
+}

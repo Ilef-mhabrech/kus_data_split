@@ -1,0 +1,6 @@
+{
+  "title": "OS-Scheduling: Scheduling",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "209\n1. Compare and contrast the common algorithms used for both preemptive and non-preemptive\nscheduling of tasks in operating systems, such as priority, performance comparison, and fair-share\nschemes.\n2. Explain the relationships between scheduling algorithms and application domains.\n3. Explain the distinctions among types of processor scheduler such as short-term, medium-term,\nlong-term, and I/O.\n4. Evaluate a problem or solution to determine appropriateness for asymmetric and/or symmetric\nmultiprocessing.\n5. Evaluate a problem or solution to determine appropriateness as a process vs threads.\n6. List some contexts benefitting from preemption and deadline scheduling.\nNon-Core:\n7. Explain the ways that the logic embodied in scheduling algorithms are applicable to other operating\nsystems mechanisms, such as first come first serve or priority to disk I/O, network scheduling,\nproject scheduling, and problems beyond computing."
+  }
+}

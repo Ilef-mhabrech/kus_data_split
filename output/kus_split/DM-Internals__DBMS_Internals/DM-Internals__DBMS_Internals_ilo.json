@@ -1,0 +1,6 @@
+{
+  "title": "DM-Internals: DBMS Internals",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe how a DBMS manages its Buffer Pool.\n2. Describe the four properties for a correct transaction manager.\n3. Outline the principle of serializability."
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AI-LRR: Logical Representation and Reasoning",
+  "Non-core": "76\n1. Review of propositional and predicate logic (See also: MSF-Discrete)\n2. Resolution and theorem proving (propositional logic only)\na. Forward chaining, backward chaining\n3. Knowledge representation issues\na. Description logics\nb. Ontology engineering\n4. Semantic web\n5. Non-monotonic reasoning (e.g., non-classical logics, default reasoning)\n6. Argumentation\n7. Reasoning about action and change (e.g., situation and event calculus)\n8. Temporal and spatial reasoning\n9. Logic programming\na. Prolog, Answer Set Programming\n10. Rule-based Expert Systems\n11. Semantic networks\n12. Model-based and Case-based reasoning"
+}

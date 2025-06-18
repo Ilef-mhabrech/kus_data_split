@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Functional: Functional Programming",
+  "Non-core": "10. Illustrate graph reduction using a λ-expression using a shared subexpression.\n11. Illustrate the execution of a simple nested λ-expression using an abstract machine, such as an ABC\nmachine.\n12. Illustrate narrowing, residuation, and semantic unification using simple illustrative examples.\n132\n13. Illustrate the concurrency constructs using simple programming examples of known concepts such\nas a buffer being read and written concurrently or sequentially. (See also: FPL-OOP)"
+}

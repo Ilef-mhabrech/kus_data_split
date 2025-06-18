@@ -1,0 +1,7 @@
+{
+  "title": "SE-Tools: Tools and Environments",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Describe the difference between centralized and distributed software configuration management.\n2. Describe how version control can be used to help manage software release management.\n3. Identify configuration items and use a source code control tool in a small team-based project.\n241",
+    "KA Core": "4. Describe how available static and dynamic test tools can be integrated into the software\ndevelopment environment.\n5. Understand the use of CI systems as a ground-truth for the state of the team’s shared code (build\nand test success).\n6. Describe the issues that are important in selecting a set of tools for the development of a specific\nsoftware system, including tools for requirements tracking, design modeling, implementation, build\nautomation, and testing.\n7. Demonstrate the capability to use software tools in support of the development of a software\nproduct of medium size."
+  }
+}

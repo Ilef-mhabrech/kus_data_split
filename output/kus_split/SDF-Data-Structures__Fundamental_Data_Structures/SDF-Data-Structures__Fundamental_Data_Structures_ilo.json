@@ -1,0 +1,6 @@
+{
+  "title": "SDF-Data-Structures: Fundamental Data Structures",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Write programs that use each of the key abstract data types provided in the language (e.g., arrays,\ntuples/records/structs, lists, stacks, queues, and associative data types like sets,\ndictionaries/maps).\n2. Select the appropriate data structure for a given problem.\n3. Explain how the performance of a program may change when using different data structures or\noperations.\n4. Write programs that work with text by using string processing capabilities provided by the language."
+  }
+}

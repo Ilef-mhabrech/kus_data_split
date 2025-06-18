@@ -1,0 +1,7 @@
+{
+  "title": "DM-Querying: Query Construction",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Compose SQL queries that incorporate select, project, join, union, intersection, set difference, and\nset division.\n2. Determine when a nested SQL query is correlated or not.\n3. Iterate over data retrieved programmatically from a database via an SQL query.",
+    "KA Core": "4. Define, in SQL, a relation schema, including all integrity constraints and delete/update triggers.\n5. Compose an SQL query to update a tuple in a relation."
+  }
+}

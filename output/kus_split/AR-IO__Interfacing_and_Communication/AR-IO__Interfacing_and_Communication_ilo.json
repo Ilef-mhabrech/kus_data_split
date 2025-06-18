@@ -1,0 +1,6 @@
+{
+  "title": "AR-IO: Interfacing and Communication",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Analyze an interrupt control diagram to comment on how interrupts are used to implement I/O\ncontrol and data transfers.\n2. Enumerate various types of buses in a computer system.\n3. List the advantages of magnetic disks and contrast them with those of solid-state disks.\n105"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "title": "OS-Virtualization: Virtualization",
+  "KA Core": "1. Using virtualization and isolation to achieve protection and predictable performance. (See also: SF-\nPerformance)\n2. Advanced paging and virtual memory. (See also: SF-Performance)\n3. Virtual file systems and virtual devices.\n4. Containers and their comparison to virtual machines.\n5. Thrashing (e.g., Popek and Goldberg requirements for recursively virtualizable systems)."
+}

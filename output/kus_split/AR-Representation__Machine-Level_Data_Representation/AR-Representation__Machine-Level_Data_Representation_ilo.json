@@ -1,0 +1,6 @@
+{
+  "title": "AR-Representation: Machine-Level Data Representation",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Discuss why everything in computers are data, including instructions.\n2. Explain how fixed-length number representations can affect accuracy and precision.\n3. Describe how negative integers are stored in sign-magnitude and two’s-complement\nrepresentations.\n4. Discuss how different formats can represent numerical data.\n5. Explain the bit-level representation of non-numeric data, such as characters, strings, records, and\narrays.\n6. Translate numerical data from one format to another.\n7. Describe how a single adder (without overflow detection) can handle both signed (two’s\ncomplement) and unsigned (binary) input without “knowing” which format a given input is using."
+  }
+}

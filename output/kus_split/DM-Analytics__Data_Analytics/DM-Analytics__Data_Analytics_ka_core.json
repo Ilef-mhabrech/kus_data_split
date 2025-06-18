@@ -1,0 +1,4 @@
+{
+  "title": "DM-Analytics: Data Analytics",
+  "KA Core": "1. Exploratory data techniques (motivation, representation, descriptive statistics, visualizations)\n2. Data science lifecycle: business understanding, data understanding, data preparation, modeling,\nevaluation, deployment, and user acceptance (See also: AI-ML)\n121\n3. Data mining and machine learning algorithms: e.g., classification, clustering, association, regression\n(See also: AI-ML)\n4. Data acquisition and governance (See also: SEC-Governance)\n5. Data security and privacy considerations (See also: SEP-Security, SEP-Privacy, SEC-Foundations)\n6. Data fairness and bias (See also: SEP-Security, AI-SEP)\n7. Data visualization techniques and their use in data analytics (See also: GIT-Visualization)\n8. Entity Resolution"
+}

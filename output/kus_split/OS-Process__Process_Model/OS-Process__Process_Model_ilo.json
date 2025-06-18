@@ -1,0 +1,6 @@
+{
+  "title": "OS-Process: Process Model",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Understand how processes and threads use concurrency features to virtualize control.\n2. Understand reasons for using interrupts, dispatching, and context switching to support concurrency\nand virtualization in an operating system.\n3. Understand the different states that a task may pass through, and the data structures needed to\nsupport the management of many tasks.\n4. Understand the different ways of allocating memory to tasks, citing the relative merits of each.\n5. Apply the appropriate interprocess communication mechanism for a specific purpose in a\nprogrammed software artifact."
+  }
+}

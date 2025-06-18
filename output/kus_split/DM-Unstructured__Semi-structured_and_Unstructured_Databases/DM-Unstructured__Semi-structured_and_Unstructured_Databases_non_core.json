@@ -1,0 +1,4 @@
+{
+  "title": "DM-Unstructured: Semi-structured and Unstructured Databases",
+  "Non-core": "1. Vectorized unstructured data (text, video, audio, etc.) and vector storage\na. TF-IDF Vectorizer with ngram\nb. Word2Vec\nc. Array database or array data type handling\n2. Semi-structured databases (e.g., JSON)\na. Storage\ni. Encoding and compression of nested data types\nb. Indexing\ni. Btree, skip index, Bloom filter\n122\nii. Inverted index and bitmap compression\niii. Space filling curve indexing for semi-structured geo-data\nc. Query processing for OLTP and OLAP use cases\ni. Insert, Select, update/delete tradeoffs\nii. Case studies on Postgres/JSON, MongoDB, and Snowflake/JSON"
+}

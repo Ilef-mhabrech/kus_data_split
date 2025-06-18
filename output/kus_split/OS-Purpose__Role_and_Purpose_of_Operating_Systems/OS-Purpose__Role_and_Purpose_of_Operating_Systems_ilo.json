@@ -1,0 +1,6 @@
+{
+  "title": "OS-Purpose: Role and Purpose of Operating Systems",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Understand the objectives and functions of modern operating systems.\n2. Evaluate the design issues in different usage scenarios (e.g., real time OS, mobile, server).\n3. Understand the functions of a contemporary operating system with respect to convenience,\nefficiency, and the ability to evolve.\n4. Understand how evolution and stability are desirable and mutually antagonistic in operating\nsystems function."
+  }
+}

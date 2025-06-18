@@ -1,0 +1,7 @@
+{
+  "title": "SF-Evaluation: Performance Evaluation",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Explain how the components of system architecture contribute to improving its performance.\n2. Explain the circumstances in which a given figure of a system performance metric is useful.\n3. Explain the usage and inadequacies of benchmarks as a measure of system performance.\n4. Describe Amdahl’s law and discuss its limitations.\n5. Apply limit studies or simple calculations to produce order-of-magnitude estimates for a given\nperformance metric in a given context.\n6. Apply software tools to profile and measure program performance.",
+    "KA Core": "7. Design and conduct a performance-oriented experiment of a common system (e.g., an OS and\nSpark).\n8. Design a performance experiment on a layered system to determine the effect of a system\nparameter on system performance."
+  }
+}

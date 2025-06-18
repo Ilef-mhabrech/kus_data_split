@@ -1,0 +1,4 @@
+{
+  "title": "GIT-Shading: Shading and Advanced Rendering",
+  "KA Core": "1. Solutions and approximations to the rendering equation, for example\na. Distribution ray tracing and path tracing\nb. Photon mapping\nc. Bidirectional path tracing\nd. Metropolis light transport\n2. Time (motion blur), lens position (focus), and continuous frequency (color) and their impact on\nrendering\n3. Shadow mapping\n4. Occlusion culling\n5. Bidirectional Scattering Distribution function (BSDF) theory and microfacets\n6. Subsurface scattering\n7. Area light sources\n8. Hierarchical depth buffering\n9. Image-based rendering\n10. Non-photorealistic rendering\n11. Realtime rendering\n12. GPU architecture (See also: AR-Heterogeneity)\n13. Human visual systems including adaptation to light, sensitivity to noise, and flicker fusion (See also:\nHCI-Accessibility, SEP-DEIA)"
+}

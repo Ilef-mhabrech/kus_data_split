@@ -1,0 +1,4 @@
+{
+  "title": "AI-Agents: Agents and Cognitive Systems",
+  "Illustrative Learning Outcomes": "1. Characterize and contrast the standard agent architectures.\n2. Describe the applications of agent theory to domains such as software agents, personal assistants,\nand believable agents, and discuss associated ethical implications.\n3. Describe the primary paradigms used by learning agents.\n4. Demonstrate using appropriate examples how multi-agent systems support agent interaction.\n5. Construct an intelligent agent using a well-established cognitive architecture (ACT-R, SOAR) for\nsolving a specific problem."
+}

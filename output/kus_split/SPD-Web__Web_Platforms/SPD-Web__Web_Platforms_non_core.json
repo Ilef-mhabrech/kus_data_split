@@ -1,0 +1,4 @@
+{
+  "title": "SPD-Web: Web Platforms",
+  "Non-core": "6. Analyzing requirements for web applications\n7. Computing services (See also: DM-NoSQL)\na. Cloud Hosting\nb. Scalability (e.g., Autoscaling, Clusters)\nc. Cost estimation for services\n8. Data management (See also: DM-Core)\na. Data residency: where the data is located and what paths can be taken to access it\nb. Data integrity: guaranteeing data is accessible and that data is deleted when required\n9. Architecture\na. Monoliths vs Microservices\nb. Micro-frontends\nc. Event-Driven vs RESTful architectures: advantages and disadvantages\nd. Serverless, cloud computing on demand\n10. Storage solutions (See also: DM-Relational, DM-NoSQL)\na. Relational Databases\nb. NoSQL databases"
+}

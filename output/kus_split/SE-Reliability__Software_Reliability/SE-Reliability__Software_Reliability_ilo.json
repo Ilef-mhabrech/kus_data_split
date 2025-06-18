@@ -1,0 +1,6 @@
+{
+  "title": "SE-Reliability: Software Reliability",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe how to determine the level of reliability required by a software system.\n2. Explain the problems that exist in achieving very high levels of reliability.\n3. Understand approaches to minimizing faults that can be applied at each stage of the software\nlifecycle.\nNon-Core:\n4. Demonstrate the ability to apply multiple methods to develop reliability estimates for a software\nsystem.\n5. Identify methods that will lead to the realization of a software architecture that achieves a specified\nlevel of reliability.\n6. Identify ways to apply redundancy to achieve fault tolerance.\n7. Identify single-point-of-failure (SPF) dependencies in a system design."
+  }
+}

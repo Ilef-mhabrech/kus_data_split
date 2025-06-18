@@ -1,0 +1,4 @@
+{
+  "title": "AI-Planning: Planning",
+  "Non-core": "1. Review of propositional and first-order logic\n2. Planning operators and state representations\n3. Total order planning\n4. Partial-order planning\n5. Plan graphs and GraphPlan\n6. Hierarchical planning\n7. Planning languages and representations\na. PDDL\n8. Multi-agent planning\n9. MDP-based planning\n10. Interconnecting planning, execution, and dynamic replanning\na. Conditional planning\nb. Continuous planning\nc. Probabilistic planning"
+}

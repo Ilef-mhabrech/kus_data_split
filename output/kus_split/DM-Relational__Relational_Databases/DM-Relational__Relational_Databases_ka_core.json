@@ -1,0 +1,4 @@
+{
+  "title": "DM-Relational: Relational Databases",
+  "KA Core": "3. Mapping conceptual schema to a relational schema\n4. Physical database design: file and storage structures (See also: OS-Files)\n5. Introduction to Functional dependency theory\n6. Normalization Theory\na. Decomposition of a schema; lossless-join, and dependency-preservation properties of a\ndecomposition\nb. Normal forms (BCNF)\nc. Denormalization (for efficiency)"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AR-Logic: Digital Logic and Digital Systems",
+  "KA Core": "1. Combinational vs sequential logic/field programmable gate arrays (FPGAs) (See also: SF-\nOverview, SF-Foundations, SPD-Embedded)\na. Fundamental combinational\nb. Sequential logic building block\n2. Computer-aided design tools that process hardware and architectural representations\n3. High-level synthesis\na. Register transfer notation\nb. Hardware description language (e.g., Verilog/VHDL/Chisel)\n4. System-on-chip (SoC) design flow\n5. Physical constraints\na. Gate delays\nb. Fan-in and fan-out\nc. Energy/power\nd. Speed of light"
+}

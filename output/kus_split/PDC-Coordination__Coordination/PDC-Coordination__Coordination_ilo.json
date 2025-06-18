@@ -1,0 +1,7 @@
+{
+  "title": "PDC-Coordination: Coordination",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Show how to avoid or repair a race error in a given program.\n2. Show how to ensure that a program correctly terminates when all of a set of concurrent tasks\nhave completed.",
+    "KA Core": "3. Write a function that efficiently counts events such as sensor inputs or networking packet\nreceptions.\n4. Write a filter/map/reduce program in multiple styles.\n5. Write a program in which the termination of one set of parallel actions is followed by another.\n6. Write a program that speculatively searches for a solution by multiple activities, terminating\nothers when one is found.\n7. Write a program in which a numerical exception (such as divide by zero) in one activity causes\ntermination of others.\n8. Write a program for multiple parties to agree upon the current time of day; discuss its limitations\ncompared to protocols such as network transfer protocol (NTP).\n9. Write a service that creates a thread (or other procedural form of activation) to return a\nrequested web page to each new client.\n223"
+  }
+}

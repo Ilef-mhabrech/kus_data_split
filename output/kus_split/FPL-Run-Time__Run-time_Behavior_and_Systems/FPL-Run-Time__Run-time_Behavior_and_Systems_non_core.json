@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Run-Time: Run-time Behavior and Systems",
+  "Non-core": "1. Discuss benefits and limitations of automatic memory management.\n2. Explain the use of metadata in run-time representations of objects and activation records, such as\nclass pointers, array lengths, return addresses, and frame pointers.\n3. Compare and contrast static allocation vs stack-based allocation vs heap-based allocation of data\nelements.\n4. Explain why some data elements cannot be automatically deallocated at the end of a\nprocedure/method call (need for garbage collection).\n5. Discuss advantages, disadvantages, and difficulties of just-in-time and dynamic recompilation.\n6. Discuss the use of sandboxing in mobile code.\n7. Identify the services provided by modern language run-time systems."
+}

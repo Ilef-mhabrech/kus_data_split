@@ -1,0 +1,4 @@
+{
+  "title": "AR-Performance-Energy: Performance and Energy Efficiency",
+  "KA Core": "1. Performance-energy evaluation (introduction): performance, power consumption, memory, and\ncommunication costs (See also: SF-Evaluation, OS-Scheduling, SPD-Game)\n2. Branch prediction, speculative execution, out-of-order execution, Tomasulo's algorithm\n3. Enhancements for vector processors and GPUs (See also: SPD-Game)\n4. Hardware support for multithreading (See also: OS-Concurrency, OS-Scheduling, PDC-Programs)\na. Race conditions\nb. Lock implementations\nc. Point-to-point synchronization\nd. Barrier implementation\n5. Scalability\n6. Alternative architectures including VLIW/EPIC, accelerators, and other special purpose processors\n7. Dynamic voltage and frequency scaling (DVFS)\n8. Dark Silicon"
+}

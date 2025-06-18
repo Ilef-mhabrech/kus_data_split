@@ -1,0 +1,4 @@
+{
+  "title": "NC-Reliability: Reliability Support",
+  "KA Core": "1. Unreliable delivery (e.g., UDP)\n2. Principles of reliability (e.g., delivery without loss, duplication, or out of order) (See also: SF-\nReliability)\n3. Error control (e.g., retransmission, error correction)\n4. Flow control (e.g., stop and wait, window based)\n5. Congestion control (e.g., implicit and explicit congestion notification)\n6. TCP and performance issues (e.g., Tahoe, Reno, Vegas, Cubic)"
+}

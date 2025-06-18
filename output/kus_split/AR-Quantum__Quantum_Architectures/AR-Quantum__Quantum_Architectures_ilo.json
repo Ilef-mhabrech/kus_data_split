@@ -1,0 +1,6 @@
+{
+  "title": "AR-Quantum: Quantum Architectures",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Discuss how a quantum object produced as a particle propagates like a wave and is detected as a\nparticle with a probability distribution corresponding to the wave.\n2. Discuss the quantum-level nature that is inherently probabilistic.\n3. Express your view on entanglement that can be used to create non-classical correlations, but there\nis no way to use quantum entanglement to send messages faster than the speed of light.\n4. Describe quantum parallelism and the role of constructive vs destructive interference in quantum\nalgorithms given the probabilistic nature of measurement(s).\n5. Analyze a code snippet providing the role of quantum Fourier transform (QFT) in Shor’s algorithm.\n6. Write a program to implement Shor’s algorithm in a simulator, highlighting the classical components\nand aspects of Shor’s algorithm.\n7. Enumerate the specifics of each qubit modality (e.g., trapped ion, superconducting, silicon spin,\nphotonic, quantum dot, neutral atom, topological, color center, electron-on-helium).\n8. Contrast AQC with the gate model of quantum computation and the problems each is better suited\nto solve."
+  }
+}

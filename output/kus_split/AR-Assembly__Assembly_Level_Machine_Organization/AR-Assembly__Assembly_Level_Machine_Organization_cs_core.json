@@ -1,0 +1,4 @@
+{
+  "title": "AR-Assembly: Assembly Level Machine Organization",
+  "CS Core": "1. von Neumann machine architecture\n2. Control unit: instruction fetch, decode, and execution (See also: OS-Principles)\n3. Introduction to SIMD vs MIMD and the Flynn taxonomy (See also: PDC-Programs, OS-Scheduling,\nOS-Process)\n103\n4. Shared memory multiprocessors/multicore organization (See also: PDC-Programs, OS-Scheduling)"
+}

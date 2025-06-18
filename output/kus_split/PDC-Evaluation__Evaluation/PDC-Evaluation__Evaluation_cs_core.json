@@ -1,0 +1,4 @@
+{
+  "title": "PDC-Evaluation: Evaluation",
+  "CS Core": "1. Safety and liveness requirements in terms of temporal logic constructs to express “always” and\n“eventually” (See also: FPL-Parallel)\n2. Identifying, testing for, and repairing violations, including common forms of errors such as failure to\nensure necessary ordering (race errors), atomicity (including check-then-act errors), and\ntermination (livelock)\n3. Performance requirements metrics for throughput, responsiveness, latency, availability, energy\nconsumption, scalability, resource usage, communication costs, waiting and rate control, fairness;\nservice level agreements (See also: SF-Performance)\n4. Performance impact of design and implementation choices, including granularity, overhead,\nconsensus costs, and energy consumption (See also: SEP-Sustainability)\n5. Estimating scalability limitations, for example using Amdahl’s Law or Universal Scalability Law (See\nalso: SF-Evaluation)"
+}

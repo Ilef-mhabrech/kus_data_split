@@ -1,0 +1,7 @@
+{
+  "title": "SF-Reliability: System Reliability",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Explain the distinction between program errors, system errors, and hardware faults (e.g., corrupted\nmemory) and exceptions (e.g., attempt to divide by zero).\n2. Articulate the distinction between detecting, handling, and recovering from faults and the methods\nfor their implementation.\n3. Describe the role of error correction codes in providing error checking and correction techniques in\nmemories, storage, and networks.\n4. Apply simple algorithms for exploiting redundant information for the purposes of data correction.",
+    "KA Core": "5. Compare different error detection and correction methods for their data overhead, implementation\ncomplexity, and relative execution time for encoding, detecting, and correcting errors.\n296"
+  }
+}

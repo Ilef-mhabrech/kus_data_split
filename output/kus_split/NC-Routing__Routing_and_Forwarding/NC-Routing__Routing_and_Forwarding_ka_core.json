@@ -1,0 +1,4 @@
+{
+  "title": "NC-Routing: Routing and Forwarding",
+  "KA Core": "1. Routing paradigms and hierarchy (e.g., intra/inter domain, centralized and decentralized, source\nrouting, virtual circuits, QoS)\n2. Forwarding methods (e.g., forwarding tables and matching algorithms)\n3. IP and Scalability issues (e.g., NAT, CIDR, BGP, different versions of IP)\n199"
+}

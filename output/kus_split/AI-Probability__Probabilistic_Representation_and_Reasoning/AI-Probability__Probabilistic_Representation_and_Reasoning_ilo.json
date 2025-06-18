@@ -1,0 +1,4 @@
+{
+  "title": "AI-Probability: Probabilistic Representation and Reasoning",
+  "Illustrative Learning Outcomes": "1. Compute the probability of a hypothesis given the evidence in a Bayesian network.\n2. Explain how conditional independence assertions allow for greater efficiency of probabilistic\nsystems.\n3. Identify examples of knowledge representations for reasoning under uncertainty.\n4. State the complexity of exact inference. Identify methods for approximate inference.\n5. Design and implement at least one knowledge representation for reasoning under uncertainty.\n6. Describe the complexities of temporal probabilistic reasoning.\n7. Design and implement an HMM as one example of a temporal probabilistic system.\n8. Describe the relationship between preferences and utility functions.\n9. Explain how utility functions and probabilistic reasoning can be combined to make rational\ndecisions."
+}

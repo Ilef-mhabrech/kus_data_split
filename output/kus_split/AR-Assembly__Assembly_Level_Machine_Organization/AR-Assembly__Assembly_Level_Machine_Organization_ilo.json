@@ -1,0 +1,7 @@
+{
+  "title": "AR-Assembly: Assembly Level Machine Organization",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Discuss how the classical von Neumann functional units are implemented in embedded systems,\nparticularly on-chip and off-chip memory.\n2. Describe how instructions are executed in a classical von Neumann machine, with extensions for\nthreads, multiprocessor synchronization, and SIMD execution.\n3. Assess an example diagram with instruction-level parallelism and hazards to describe how they are\nmanaged in typical processor pipelines.",
+    "KA Core": "4. Discuss how instructions are represented at the machine level and in the context of a symbolic\nassembler.\n5. Map an example of high-level language patterns into assembly/machine language notations.\n6. Contrast different instruction formats considering aspects such as addresses per instruction and\nvariable-length vs fixed-length formats.\n7. Analyze a subroutine diagram to comment on how subroutine calls are handled at the assembly\nlevel.\n8. Describe basic concepts of interrupts and I/O operations.\n9. Write a simple assembly language program for string/array processing and manipulation."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "title": "SEP-Context: Social Context",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Describe the different ways that computer technology (networks, mobile computing, artificial\nintelligence) mediates social interaction at the personal and collective levels.\n2. Identify developers’ assumptions and values embedded in hardware and software design,\nespecially as they pertain to usability for diverse populations including under-served and those with\ndisabilities.\n3. Interpret the social context of a given design and its implementation.\n4. Analyze the efficacy of a given design and implementation using empirical data.\n5. Understand the implications of technology use (e.g., social media) for different identities, cultures,\nand communities.",
+    "KA Core": "6. Describe the internet’s role in facilitating communication between citizens, governments, and each\nother.\n7. Analyze the effects of reliance on computing in the implementation of democracy (e.g., delivery of\nsocial services, electronic voting).\n8. Describe the impact of a lack of appropriate representation of people from historically minoritized\npopulations in the computing profession (e.g., industry culture, product diversity).\n9. Discuss the implications of context awareness in ubiquitous computing systems.\n10. Express how access to the internet and computing technologies affect different societies.\n11. Identify why/how internet access can be viewed as a human right."
+  }
+}

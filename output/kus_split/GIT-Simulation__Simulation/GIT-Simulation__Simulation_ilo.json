@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Simulation: Simulation",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Implement algorithms for physical modeling of particle dynamics using simple Newtonian\nmechanics (e.g., Witkin & Kass, snakes and worms, symplectic Euler, Stormer/Verlet, or midpoint\nEuler methods)\n2. Contrast the basic ideas behind fluid simulation methods for modeling ballistic trajectories (e.g., for\nsplashes, dust, fire, or smoke).\n3. Implement a smoke solver with user interaction."
+  }
+}

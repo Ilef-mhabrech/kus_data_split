@@ -1,0 +1,4 @@
+{
+  "title": "SPD-Mobile: Mobile Platforms",
+  "KA Core": "1. Development with\na. Mobile programming languages\n303\nb. Mobile programming environments\n2. Mobile platform constraints\na. User interface design (See also: HCI-User)\nb. Security\n3. Access\na. Accessing data through APIs (See also: DM-Querying)\nb. Designing API endpoints for mobile apps: pitfalls and design considerations\nc. Network and web interfaces (See also: NC-Fundamentals, DM-Modeling)"
+}

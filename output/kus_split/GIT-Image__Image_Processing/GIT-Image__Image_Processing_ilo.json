@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Image: Image Processing",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Write a program that uses dilation and erosion to smooth the edges of a binary image.\n2. Manipulating the hue of an image.\n3. Write a program that applies a high-pass filter to an image. (The advanced variation would be to\nfilter an image using a high-pass filter in the frequency domain.)\n4. Write a program that restores missing parts of an image using an in-paint algorithm (e.g., Poisson\nimage editing)\n5. Assess the results of selectively filtering an image in the frequency domain."
+  }
+}

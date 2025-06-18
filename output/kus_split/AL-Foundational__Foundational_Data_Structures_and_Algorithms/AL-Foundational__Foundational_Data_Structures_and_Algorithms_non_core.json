@@ -1,0 +1,4 @@
+{
+  "title": "AL-Foundational: Foundational Data Structures and Algorithms",
+  "Non-core": "17. Cryptography algorithms (e.g., SHA-256) (See also: SEC-Crypto)\n18. Parallel algorithms (See also: PDC-Algorithms, FPL-Parallel)\n19. Consensus algorithms (e.g., Blockchain) (See also: SEC-Crypto)\na. Proof of work vs proof of stake (See also: SEP-Sustainability)\n20. Quantum computing algorithms (See also: AL-Models, AR-Quantum)\na. Oracle-based (e.g., Deutsch-Jozsa, Bernstein-Vazirani, Simon)\nb. Superpolynomial speed-up via QFT (e.g., Shor’s)\nc. Polynomial speed-up via amplitude amplification (e.g., Grover’s)\n21. Fast-Fourier Transform (FFT) algorithm\n22. Differential evolution algorithm"
+}

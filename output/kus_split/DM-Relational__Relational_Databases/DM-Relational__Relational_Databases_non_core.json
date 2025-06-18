@@ -1,0 +1,4 @@
+{
+  "title": "DM-Relational: Relational Databases",
+  "Non-core": "7. Functional dependency theory\na. Closure of a set of attributes\nb. Canonical Cover\n8. Normalization theory\na. Multi-valued dependency (4NF)\nb. Join dependency (PJNF, 5NF)\nc. Representation theory"
+}

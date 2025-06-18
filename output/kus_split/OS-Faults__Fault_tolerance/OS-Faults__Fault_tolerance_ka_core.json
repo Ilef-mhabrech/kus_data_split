@@ -1,0 +1,4 @@
+{
+  "title": "OS-Faults: Fault tolerance",
+  "KA Core": "1. Reliable and available systems. (See also: SF-Reliability)\n2. Software and hardware approaches to address tolerance (RAID). (See also: SF-Reliability)\nNon-Core:\n3. Spatial and temporal redundancy. (See also: SF-Reliability)\n4. Methods used to implement fault tolerance. (See also: SF-Reliability)\n5. Error identification and correction mechanisms, checksums of volatile memory in RAM. (See also:\nAR-Memory)\n6. File system consistency check and recovery.\n7. Journaling and log-structured file systems. (See also: SF-Reliability)\n8. Use-cases for fault-tolerance (databases, safety-critical). (See also: SF-Reliability)\n9. Examples of OS mechanisms for detection, recovery, restart to implement fault tolerance, use of\nthese techniques for the OS’s own services. (See also: SF-Reliability)"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "OS-Scheduling: Scheduling",
+  "KA Core": "1. Preemptive and non-preemptive scheduling\n2. Schedulers and policies (e.g., first come, first serve, shortest job first, priority, round robin,\nmultilevel) (See also: SF-Resource)\n3. Concepts of Symmetric Multi-Processor (SMP) scheduling and cache coherence (See also: AR-\nMemory)\n4. Timers (e.g., building many timers out of finite hardware timers) (See also: AR-Assembly)\n5. Fairness and starvation\nNon-Core:\n6. Subtopics of operating systems such as energy-aware scheduling and real-time scheduling (See\nalso: AR-Performance-Energy, SPD-Embedded, SPD-Mobile)\n7. Cooperative scheduling, such as Linux futexes and userland scheduling."
+}

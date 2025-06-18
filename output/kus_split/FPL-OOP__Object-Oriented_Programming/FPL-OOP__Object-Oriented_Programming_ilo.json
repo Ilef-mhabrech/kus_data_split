@@ -1,0 +1,7 @@
+{
+  "title": "FPL-OOP: Object-Oriented Programming",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Enumerate the differences between imperative and object-oriented programming paradigms.\n2. Compose a class through design, implementation, and testing to meet behavioral requirements.\n3. Build a simple class hierarchy utilizing subclassing that allows code to be reused for distinct\nsubclasses.\n4. Predict and validate control flow in a program using dynamic dispatch.\n5. Compare and contrast how computational solutions to a problem differ in procedural, functional,\nand object-oriented approaches.\n6. Compare and contrast mechanisms to define and protect data elements within procedural,\nfunctional, and object-oriented approaches.\n7. Compare and contrast the benefits and costs/impact of using inheritance (subclasses) and\ncomposition (specifically, how to base composition on higher order functions).\n8. Explain the relationship between object-oriented inheritance (code-sharing and overriding) and\nsubtyping (the idea of a subtype being usable in a context that expects the supertype).\n9. Use object-oriented encapsulation mechanisms such as interfaces and private members.\n10. Define and use iterators and other operations on aggregates, including operations that take\nfunctions as arguments, in multiple programming languages, selecting the most natural idioms for\neach language. (See also: FPL-Functional)",
+    "KA Core": "11. Use collection classes and iterators effectively to solve a problem."
+  }
+}

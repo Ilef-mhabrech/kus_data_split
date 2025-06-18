@@ -1,0 +1,6 @@
+{
+  "title": "AR-Memory: Memory Hierarchy",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Using a memory system diagram, identify the main types of memory technology (e.g., SRAM,\nDRAM) and their relative cost and performance.\n2. Measure the effect of memory latency on running time.\n3. Enumerate the functions of a system with virtual memory management.\n4. Compute average memory access time under various cache and memory configurations and mixes\nof instruction and data references."
+  }
+}

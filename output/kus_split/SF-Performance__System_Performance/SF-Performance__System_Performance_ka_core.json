@@ -1,0 +1,4 @@
+{
+  "title": "SF-Performance: System Performance",
+  "KA Core": "5. The formula for average memory access time (See also: AR-Memory)\n6. Rationale of virtualization and isolation: protection and predictable performance (See also: OS-\nVirtualization)\n7. Levels of indirection, illustrated by virtual memory for managing physical memory resources (See\nalso: OS-Virtualization)\n8. Methods for implementing virtual memory and virtual machines (See also: OS-Virtualization)"
+}

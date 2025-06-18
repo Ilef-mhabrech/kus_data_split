@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Pragmatics: Language Pragmatics",
+  "Non-core": "1. Discuss the role of concepts such as orthogonality and well-chosen defaults in language design.\n2. Objectively evaluate and justify language-design decisions.\n3. Implement an example program whose result can differ under different rules for evaluation order,\nprecedence, or associativity.\n4. Illustrate uses of delayed evaluation, such as user-defined control abstractions.\n5. Discuss the need for allowing calls to external calls and system libraries and the consequences for\nlanguage implementation."
+}

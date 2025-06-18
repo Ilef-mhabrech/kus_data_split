@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Animation: Computer Animation",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Using a simple open-source character model and rig, describe visually why each of the principles of\nanimation is fundamental to realistic animation.\n2. Compute the location and orientation of model parts using a forward kinematic approach.\n3. Compute the orientation of articulated parts of a model from a location and orientation using an\ninverse kinematic approach.\n4. Compare the tradeoffs in different representations of rotations.\n160\n5. Write a script that implements the spline interpolation method for producing in-between positions\nand orientations.\n6. Deploy off-the-shelf animation software to construct, rig, and animate simple organic forms."
+  }
+}

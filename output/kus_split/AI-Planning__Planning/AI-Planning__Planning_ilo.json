@@ -1,0 +1,4 @@
+{
+  "title": "AI-Planning: Planning",
+  "Illustrative Learning Outcomes": "1. Construct the state representation, goal, and operators for a given planning problem.\n2. Encode a planning problem in PDDL and use a planner to solve it.\n3. Given a set of operators, initial state, and goal state, draw the partial-order planning graph and\ninclude ordering constraints to resolve all conflicts.\n4. Construct the complete planning graph for GraphPlan to solve a given problem.\n78"
+}

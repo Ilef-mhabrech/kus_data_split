@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Rendering: Applied Rendering and Techniques",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe and illustrate the light transport problem (i.e., light is emitted, scatters around the scene,\nand is measured by the eye).\n2. Describe the basic rendering pipeline.\n3. Compare and contrast how forward and backwards rendering factor into the graphics pipeline.\n4. Create a program to display 2D shapes in a window.\n5. Create a program to display 3D models.\n6. Produce linear perspective from similar triangles by converting points (x, y, z) to points (x/z, y/z, 1).\n7. Compute two-dimensional and 3-dimensional points by applying affine transformations.\n8. Indicate the changes required to extend 2D transformation operations to handle transformations in\n3D.\n9. Define texture mapping, sampling, and anti-aliasing, and describe examples of each.\n10. Compare ray tracing and rasterization for the visibility problem.\n11. Construct a program that performs transformation and clipping operations on simple two-\ndimensional shapes.\n12. Implement a simple real-time renderer using a rasterization API (e.g., OpenGL, webGL) using\nvertex buffers and shaders.\n13. Compare and contrast the different rendering techniques.\n14. Compare and contrast the difference in transforming the camera vs the models."
+  }
+}

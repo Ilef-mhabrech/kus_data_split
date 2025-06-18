@@ -1,0 +1,6 @@
+{
+  "title": "NC-Applications: Networked Applications",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Define the principles of naming, addressing, resource location.\n2. Analyze the needs of specific networked application demands.\n3. Describe the details of one application layer protocol.\n4. Implement a simple client-server socket-based application."
+  }
+}

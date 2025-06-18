@@ -1,0 +1,7 @@
+{
+  "title": "SEC-Crypto: Cryptography",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Explain the role of cryptography in supporting security and privacy.\n2. Discuss the risks of inventing one’s own cryptographic methods.\n3. Discuss the importance of prime numbers in cryptography and explain their use in cryptographic\nalgorithms.\n4. Implement and cryptanalyze classical ciphers.",
+    "KA Core": "5. Describe how crypto keys can be managed securely.\n6. Compare the space and time performance of a given set of cryptographic methods.\n7. Discuss how modern private-key cryptosystems work and ways to cryptanalyze them.\n8. Discuss how modern public-key cryptosystems work and ways to cryptanalyze them.\n9. Compare different cryptographic algorithms in terms of security.\n10. Explain key exchange protocols and show approaches to reduce their failure.\n11. Describe real-world applications of cryptographic primitives and protocols.\n12. Discuss how quantum cryptography works and the impact of quantum computing on cryptographic\nalgorithms."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "title": "SE-Construction: Software Construction",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Write appropriate unit tests for a small component (several functions, a single type, etc.).\n2. Write appropriate interface and (if needed) implementation comments for a small component.",
+    "KA Core": "3. Describe techniques, coding idioms and mechanisms for implementing designs to achieve desired\nproperties such as reliability, efficiency, and robustness.\n4. Write robust code using exception handling mechanisms.\n5. Describe secure coding and defensive coding practices.\n6. Select and use a defined coding standard in a small software project.\n7. Compare and contrast integration strategies including top-down, bottom-up, and sandwich\nintegration.\n8. Describe the process of analyzing and implementing changes to code base developed for a specific\nproject.\n9. Describe the process of analyzing and implementing changes to a large existing code base.\nNon-Core:\n10. Rewrite a simple program to remove common vulnerabilities, such as buffer overflows, integer\noverflows and race conditions.\n11. Write a software component that performs some non-trivial task and is resilient to input and run-\ntime errors."
+  }
+}

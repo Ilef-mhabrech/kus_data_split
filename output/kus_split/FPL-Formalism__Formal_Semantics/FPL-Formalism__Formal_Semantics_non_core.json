@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Formalism: Formal Semantics",
+  "Non-core": "1. Construct formal semantics for a small language.\n2. Write a lambda-calculus program and show its evaluation to a normal form.\n3. Discuss the different approaches of operational, denotational, and axiomatic semantics.\n4. Use induction to prove properties of all programs in a language.\n145\n5. Use induction to prove properties of all programs in a language that is well-typed according to a\nformally defined type system.\n6. Use parametricity to establish the behavior of code given only its type."
+}

@@ -1,0 +1,7 @@
+{
+  "title": "DM-Modeling: Data Modeling",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Describe the components of the relational data model.\n2. Model 1:1, 1:n, and n:m relationships using the relational data model.",
+    "KA Core": "3. Describe the components of the E-R (or some other non-relational) data model.\n4. Model a given environment using a conceptual data model.\n5. Model a given environment using the document-based or key-value store-based data model."
+  }
+}

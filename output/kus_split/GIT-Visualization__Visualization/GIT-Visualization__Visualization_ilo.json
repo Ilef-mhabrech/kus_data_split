@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Visualization: Visualization",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Compare and contrast data visualization and information visualization.\n2. Deploy basic algorithms for visualization.\n3. Compare the tradeoffs of visualization algorithms in terms of accuracy and performance.\n4. Design a suitable visualization for a particular combination of data characteristics, application tasks,\nand audience.\n5. Analyze the effectiveness of a given visualization for a particular task.\n6. Design a process to evaluate the utility of a visualization algorithm or system.\n7. Identify a variety of applications of visualization including representations of scientific, medical, and\nmathematical data; flow visualization; and spatial analysis."
+  }
+}

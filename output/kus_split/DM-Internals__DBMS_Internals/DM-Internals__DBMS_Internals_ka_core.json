@@ -1,0 +1,4 @@
+{
+  "title": "DM-Internals: DBMS Internals",
+  "KA Core": "1. DB Buffer Management (See also: OS-Memory, SF-Resource)\n119\n2. Transaction Management (See also: PDC-Coordination)\na. Isolation Levels\nb. ACID\nc. Serializability\nd. Distributed Transactions\n3. Concurrency Control: (See also: OS-Concurrency)\na. 2-Phase Locking\nb. Deadlocks handling strategies\nc. Quorum-based consistency models\n4. Recovery Manager\na. Relation with Buffer Manager"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "GIT-Immersion: Immersion",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Create a stereoscopic image.\n2. Design and write an AR or VR application.\n3. Summarize the pros and cons of different types of viewer tracking.\n4. Compare and contrast the differences between geometry- and image-based virtual reality.\n5. Analyze the design issues of user action synchronization and data consistency in a networked\nenvironment.\n6. Create the specifications for an augmented reality application to be used by surgeons in the\noperating room.\n7. Assess an immersive application’s accessibility (See also: HCI-Accessibility, SEP-DEIA)\n8. Identify the most important technical characteristics of a VR system/application that should be\ncontrolled to avoid motion sickness and explain why."
+  }
+}

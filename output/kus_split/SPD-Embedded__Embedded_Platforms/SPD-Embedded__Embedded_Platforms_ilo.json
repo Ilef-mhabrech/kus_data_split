@@ -1,0 +1,6 @@
+{
+  "title": "SPD-Embedded: Embedded Platforms",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Design and implement a small embedded system for a given platform (e.g., a smart alarm clock or a\ndrone).\n2. Describe the unique characteristics of embedded systems versus other systems.\n3. Interface with sensors/actuators.\n4. Debug a problem with an existing embedded platform.\n5. Identify different types of embedded architectures.\n6. Evaluate which architecture is best for a given set of requirements.\n7. Design and develop software to interact with and control hardware.\n8. Design methods for real-time systems.\n9. Evaluate real-time scheduling and schedulability analysis.\n10. Evaluate formal specification and verification of timing constraints and properties."
+  }
+}

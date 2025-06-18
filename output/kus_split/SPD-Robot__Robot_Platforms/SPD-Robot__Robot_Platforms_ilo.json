@@ -1,0 +1,6 @@
+{
+  "title": "SPD-Robot: Robot Platforms",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Design and implement an application on a given robotic platform.\n2. Integrate an Arduino-based robot kit and program it to navigate a maze.\n3. Compare robot-specific languages and techniques with those used for general-purpose software\ndevelopment.\n4. Explain the rationale behind the design of the robotic platform and its interconnections with physical\nor simulated systems.\n5. Given a high-level application, design a robot software architecture using ROS specifying all\ncomponents and interconnections (ROS topics) to accomplish that application.\n6. Discuss the constraints a given robotic platform imposes on developers."
+  }
+}

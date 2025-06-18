@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Semantics: Compiler Semantic Analysis",
+  "Non-core": "1. Draw the abstract syntax tree for a small language.\n2. Implement context-sensitive, source-level static analyses such as type-checkers or resolving\nidentifiers to identify their binding occurrences.\n3. Describe semantic analyses using an attribute grammar."
+}

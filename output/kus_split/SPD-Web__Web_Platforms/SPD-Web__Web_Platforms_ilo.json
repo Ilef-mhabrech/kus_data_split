@@ -1,0 +1,6 @@
+{
+  "title": "SPD-Web: Web Platforms",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Design and implement a web-based application using a microservice architecture design.\n2. Describe the constraints, such as hosting, services, and scalability, related to web platforms.\n3. Compare and contrast web programming with general-purpose programming.\n4. Describe the differences between Software-as-a-Service (SaaS) and traditional software products.\n5. Discuss how web standards impact software development.\n6. Evaluate an existing web application against current web standards."
+  }
+}

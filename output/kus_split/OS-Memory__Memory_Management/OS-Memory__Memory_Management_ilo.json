@@ -1,0 +1,6 @@
+{
+  "title": "OS-Memory: Memory Management",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain memory hierarchy and cost-performance tradeoffs.\n2. Summarize the principles of virtual memory as applied to caching and paging.\n3. Evaluate the tradeoffs in terms of memory size (main memory, cache memory, auxiliary memory)\nand processor speed.\n4. Describe the reason for and use of cache memory (performance and proximity, how caches\ncomplicate isolation and virtual machine abstraction).\n5. Code/Develop efficient programs that consider the effects of page replacement and frame allocation\non the performance of a process and the system in which it executes.\nNon-Core:\n6. Explain how hardware is utilized for efficient virtualization"
+  }
+}

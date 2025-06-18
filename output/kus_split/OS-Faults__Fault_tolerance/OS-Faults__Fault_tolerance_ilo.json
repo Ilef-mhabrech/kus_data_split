@@ -1,0 +1,6 @@
+{
+  "title": "OS-Faults: Fault tolerance",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain how operating systems can facilitate fault tolerance, reliability, and availability.\n214\n2. Explain the range of methods for implementing fault tolerance in an operating system.\n3. Explain how an operating system can continue functioning after a fault occurs.\n4. Explain the performance and flexibility tradeoffs that impact using fault tolerance.\nNon-Core:\n5. Describe operating systems fault tolerance issues and mechanisms in detail."
+  }
+}

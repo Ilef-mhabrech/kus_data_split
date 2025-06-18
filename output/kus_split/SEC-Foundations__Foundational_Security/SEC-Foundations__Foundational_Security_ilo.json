@@ -1,0 +1,7 @@
+{
+  "title": "SEC-Foundations: Foundational Security",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Evaluate a system for possible attacks that can be launched by an adversary.\n2. Design and develop approaches to protect a system from a set of identified threats.",
+    "KA Core": "3. Describe how harm to user privacy can be avoided.\n4. Develop a system that incorporates various principles of security and privacy.\n5. Compare the different access control models in terms of functionality and performance.\n6. Show how an adversary could use machine learning algorithms to reduce the security of a system.\n7. Show how a developer could improve the security of a system using machine learning algorithms.\n8. Describe hardware (especially CPU) vulnerabilities that can impact software."
+  }
+}

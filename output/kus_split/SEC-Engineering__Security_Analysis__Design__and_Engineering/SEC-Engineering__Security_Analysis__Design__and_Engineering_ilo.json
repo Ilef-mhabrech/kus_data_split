@@ -1,0 +1,7 @@
+{
+  "title": "SEC-Engineering: Security Analysis, Design, and Engineering",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Create a threat model for a system or system design.\n2. Apply situational analysis to develop secure solutions under a specified scenario.\n3. Evaluate a given scenario for tradeoff analysis for system performance, risk assessment, and costs.",
+    "KA Core": "4. Design a set of technical security controls, countermeasures, and information protections to meet\nthe security requirements and security objectives for a system.\n5. Evaluate the effectiveness of security functions, technical controls, and componentry for a system.\n6. Identify and mitigate security vulnerabilities and weaknesses in a system.\n7. Evaluate and predict emergent behavior in areas such as Data Science, AI, and Machine Learning."
+  }
+}

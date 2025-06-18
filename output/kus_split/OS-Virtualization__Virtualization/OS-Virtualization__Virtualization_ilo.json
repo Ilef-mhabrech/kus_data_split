@@ -1,0 +1,6 @@
+{
+  "title": "OS-Virtualization: Virtualization",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain how hardware architecture provides support and efficiencies for virtualization.\n2. Explain the difference between emulation and isolation.\n3. Evaluate virtualization tradeoffs.\n213\nNon-Core:\n4. Explain hypervisors and the need for them in conjunction with different types of hypervisors."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "title": "NC-Routing: Routing and Forwarding",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Describe various routing paradigms and hierarchies.\n2. Describe how packets are forwarded in an IP network.\n3. Describe how the Internet tackles scalability challenges. ."
+  }
+}

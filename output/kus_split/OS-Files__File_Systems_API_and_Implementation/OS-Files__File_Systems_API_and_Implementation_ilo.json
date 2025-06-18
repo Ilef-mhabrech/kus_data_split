@@ -1,0 +1,6 @@
+{
+  "title": "OS-Files: File Systems API and Implementation",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain the choices to be made in designing file systems.\n2. Evaluate different approaches to file organization, recognizing the strengths and weaknesses of\neach.\n3. Apply software constructs appropriately given knowledge of the file system implementation."
+  }
+}

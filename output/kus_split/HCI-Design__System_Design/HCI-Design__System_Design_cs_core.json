@@ -1,0 +1,4 @@
+{
+  "title": "HCI-Design: System Design",
+  "CS Core": "1. Prototyping techniques and tools\na. Low-fidelity prototyping\nb. Rapid prototyping\nc. Throw-away prototyping\n179\nd. Granularity of prototyping\n2. Design patterns\na. Iterative design\nb. Universal design (See also: SEP-DEIA)\nc. Interaction design (e.g., data-driven design, event-driven design)\n3. Design constraints\na. Platforms (See also: SPD-Game)\nb. Devices\nc. Resources\nd. Balance among usability, security and privacy (See also: SEC-Foundations)"
+}

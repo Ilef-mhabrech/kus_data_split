@@ -1,0 +1,7 @@
+{
+  "title": "SF-Resource: Resource Management",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "1. Define how finite computer resources (e.g., processor share, memory, storage, and network\nbandwidth) are managed by their careful allocation to existing entities.\n2. Describe how common resource allocation/scheduling algorithms work.\n3. Develop common scheduling algorithms and evaluate their performances.",
+    "KA Core": "4. Describe the pros and cons of common scheduling algorithms."
+  }
+}

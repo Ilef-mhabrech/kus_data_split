@@ -1,0 +1,4 @@
+{
+  "title": "AL-Complexity: Complexity",
+  "KA Core": "6. Little-o, Little-Omega, and Little Theta notations\n7. Formal recursive analysis\n8. Amortized analysis\n9. Turing Machine-based models of complexity\na. Time complexity\ni. P, NP, NP-C, and EXP classes\nii. Cook-Levin theorem\nb. Space Complexity\ni. NSpace and PSpace\nii. Savitch’s theorem"
+}

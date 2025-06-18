@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Types: Type Systems",
+  "KA Core": "7. Explain how typing rules define the set of operations that are legal for a type.\n8. List the type rules governing the use of a particular compound type.\n9. Explain why undecidability requires type systems to conservatively approximate program behavior.\n10. Define and use program pieces (such as functions, classes, methods) that use generic types,\nincluding for collections.\n11. Discuss the differences among generics, subtyping, and overloading.\n12. Explain multiple benefits and limitations of static typing in writing, maintaining, and debugging\nsoftware."
+}

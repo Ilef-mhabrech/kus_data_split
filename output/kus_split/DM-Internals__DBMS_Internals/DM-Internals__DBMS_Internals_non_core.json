@@ -1,0 +1,4 @@
+{
+  "title": "DM-Internals: DBMS Internals",
+  "Non-core": "5. Concurrency Control:\na. Optimistic concurrency control\nb. Timestamp concurrency control\n6. Recovery Manager\na. Write-Ahead logging\nb. ARIES recovery system (Analysis, REDO, UNDO)"
+}

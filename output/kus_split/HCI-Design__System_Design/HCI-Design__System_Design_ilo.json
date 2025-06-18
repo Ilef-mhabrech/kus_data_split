@@ -1,0 +1,8 @@
+{
+  "title": "HCI-Design: System Design",
+  "Illustrative Learning Outcomes": {
+    "CS Core": "180\n1. Propose system designs tailored to a specified appropriate mode of interaction.\n2. Follow an iterative design and development process that incorporates the following:\na. Understanding the user\nb. Developing an increment\nc. Evaluating the increment\nd. Feeding those results into a subsequent iteration\n3. Explain the impact of changing constraints and design tradeoffs (e.g., hardware, user, security.) on\nsystem design.",
+    "KA Core": "4. Evaluate architectural design approaches in the context of project goals.\n5. Identify synchronization challenges as part of the user experience in distributed environments.\n6. Evaluate and compare the privacy implications behind different input techniques for a given\nscenario.\n7. Explain the rationale behind a UI design based on visual design principles.",
+    "Non-core": "8. Evaluate the privacy implications within a VR/AR/MR scenario"
+  }
+}

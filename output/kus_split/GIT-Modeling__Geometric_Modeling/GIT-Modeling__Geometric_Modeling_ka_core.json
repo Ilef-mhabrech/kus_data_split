@@ -1,0 +1,4 @@
+{
+  "title": "GIT-Modeling: Geometric Modeling",
+  "KA Core": "1. Basic geometric operations such as intersection calculation and proximity tests on 2D objects\n2. Surface representation/model\na. Tessellation\nb. Mesh representation, mesh fairing, and mesh generation techniques such as Delaunay\ntriangulation, and marching cubes/tetrahedrons\nc. Parametric polynomial curves and surfaces\nd. Implicit representation of curves and surfaces\ne. Spatial subdivision techniques\n3. Volumetric representation/model\na. Volumes, voxels, and point-based representations.\nb. Signed Distance Fields\nc. Sparse Volumes, i.e., VDB\nd. Constructive Solid Geometry (CSG) representation\n4. Procedural representation/model\n158\na. Fractals\nb. L-Systems\n5. Multi-resolution modeling (See also: SPD-Game)\n6. Reconstruction, e.g., 3D scanning, photogrammetry"
+}

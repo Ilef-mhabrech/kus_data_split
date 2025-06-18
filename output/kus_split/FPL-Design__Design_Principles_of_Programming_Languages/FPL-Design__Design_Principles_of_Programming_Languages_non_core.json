@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Design: Design Principles of Programming Languages",
+  "Non-core": "1. Language design principles\na. Simplicity\nb. Security (See also: SEC-Coding)\nc. Fast translation\nd. Efficient object code\ne. Orthogonality\nf. Readability\ng. Completeness\nh. Implementation strategies\n2. Designing a language to fit a specific domain or problem\n3. Interoperability between programming languages\n4. Language portability\n5. Formal description of a programming language\n6. Green computing principles (See also: SEP-Sustainability)\n146"
+}

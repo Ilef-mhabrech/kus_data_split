@@ -1,0 +1,4 @@
+{
+  "title": "AI-Search: Search",
+  "Non-core": "10. Understanding the search space\na. Constructing search trees\nb. Dynamic search spaces\nc. Combinatorial explosion of search space\nd. Search space topology (e.g., ridges, saddle points, local minima)\n11. Local search\n12. Tabu search\n13. Variations on A* (IDA*, SMA*, RBFS)\n14. Two-player adversarial games\na. The horizon effect\nb. Opening playbooks/endgame solutions\nc. What it means to “solve” a game (e.g., checkers)\n15. Implementation of minimax search, beam search\n16. Expectimax search (MDP-solving) and chance nodes\n17. Stochastic search\na. Simulated annealing\nb. Genetic algorithms\nc. Monte-Carlo tree search"
+}

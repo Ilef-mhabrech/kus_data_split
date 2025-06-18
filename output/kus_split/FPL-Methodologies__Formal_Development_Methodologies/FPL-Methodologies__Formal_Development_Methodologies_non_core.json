@@ -1,0 +1,4 @@
+{
+  "title": "FPL-Methodologies: Formal Development Methodologies",
+  "Non-core": "1. Use formal modeling techniques to develop and validate architectures.\n2. Use proof assisted programming languages to develop fully specified and verified software artifacts.\n3. Use verifier and specification support in programming languages to formally validate system\nproperties.\n4. Integrate symbolic validation tooling into a programming workflow.\n5. Discuss when and how formal methods can be effectively used in the development process."
+}

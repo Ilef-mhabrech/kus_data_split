@@ -1,0 +1,4 @@
+{
+  "title": "OS-Files: File Systems API and Implementation",
+  "KA Core": "1. Concept of a file including data, metadata, operations, and access-mode\n2. File system mounting\n3. File access control\n4. File sharing\n5. Basic file allocation methods, including linked allocation table\n6. File system structures comprising file allocation including various directory structures and methods\nfor uniquely identifying files (e.g., name, identified or metadata storage location)\n7. Allocation/deallocation/storage techniques (algorithms and data structure) impact on performance\nand flexibility (i.e., internal and external fragmentation and compaction)\n8. Free space management such as using bit tables vs linking\n9. Implementation of directories to segment and track file location"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "OS-Advanced-Files: Advanced File systems",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Explain how hardware developments have led to changes in the priorities for the design and the\nmanagement of file systems.\n2. Map file abstractions to a list of relevant devices and interfaces.\n3. Identify and categorize different mount types.\n4. Explain specific file systems requirements and the specialized file systems features that meet those\nrequirements.\n5. Explain the use of journaling and how log-structured file systems enhance fault tolerance.\nNon-Core:\n6. Explain purpose and complexity of distributed file systems.\n7. List examples of distributed file systems protocols.\n8. Explain mechanisms in file systems to improve fault tolerance."
+  }
+}

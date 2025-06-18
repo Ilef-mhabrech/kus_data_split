@@ -1,0 +1,6 @@
+{
+  "title": "AR-Logic: Digital Logic and Digital Systems",
+  "Illustrative Learning Outcomes": {
+    "KA Core": "1. Discuss the progression of computer technology components from vacuum tubes to VLSI, from\nmainframe computer architectures to the organization of warehouse-scale computers.\n2. Describe parallelism and data dependencies between and within components in a modern\nheterogeneous computer architecture.\n3. Explain the relationship between parallelism and power consumption.\n4. Construct the design of basic building blocks for a computer: arithmetic-logic unit (gate-level),\nregisters (gate-level), central processing unit (register transfer-level), and memory (register transfer-\nlevel).\n5. Evaluate simple building blocks (e.g., arithmetic-logic unit, registers, movement between registers)\nof a simple computer design.\n6. Analyze the timing behavior of a pipelined processor, identifying data dependency issues."
+  }
+}

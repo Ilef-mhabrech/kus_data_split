@@ -1,0 +1,4 @@
+{
+  "title": "AI-Search: Search",
+  "KA Core": "5. Bidirectional search\n6. Beam search\n7. Two-player adversarial games\na. Minimax search\nb. Alpha-beta pruning\ni. Ply cutoff\n8. Implementation of A* search\n9. Constraint satisfaction"
+}

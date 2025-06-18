@@ -1,0 +1,4 @@
+{
+  "title": "GIT-Physical: Tangible/Physical Computing",
+  "KA Core": "1. Interaction with the physical world (See also: SPD-Embedded)\na. Acquisition of data from sensors\nb. Driving external actuators\n2. Connection to physical artifacts\na. Computer-Aided Design (CAD)\nb. Computer-Aided Manufacturing (CAM)\nc. Fabrication (See also: HCI-Design)\ni. Prototyping\nii. Additive (3D printing)\niii. Subtractive (Computer Numerical Control (CNC) milling)\niv. Forming (vacuum forming)\n3. Internet of Things (See also: SPD-Interactive)\na. Network connectivity\nb. Wireless communication"
+}

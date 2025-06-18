@@ -1,0 +1,4 @@
+{
+  "title": "AL-Models: Computational Models and Formal Languages",
+  "Non-core": "14. Quantum computation (See also: AR-Quantum)\na. Postulates of quantum mechanics\ni. State space\n93\nii. State evolution\niii. State composition\niv. State measurement\nb. Column vector representations of qubits\nc. Matrix representations of quantum operations\nd. Simple quantum gates (e.g., XNOT, CNOT)"
+}

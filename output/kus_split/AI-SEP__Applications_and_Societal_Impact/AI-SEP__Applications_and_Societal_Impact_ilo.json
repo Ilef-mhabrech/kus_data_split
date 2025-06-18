@@ -1,0 +1,4 @@
+{
+  "title": "AI-SEP: Applications and Societal Impact",
+  "Illustrative Learning Outcomes": "1. Given a real-world application domain and problem, formulate an AI solution to it, identifying proper\ndata/input, preprocessing, representations, AI techniques, and evaluation metrics/methodology.\n2. Analyze the societal impact of one or more specific real-world AI applications, identifying issues\nregarding ethics, fairness, bias, trust, and explainability.\n3. Describe some of the failure modes of current deep generative models for language or images, and\nhow this could affect their use in an application."
+}

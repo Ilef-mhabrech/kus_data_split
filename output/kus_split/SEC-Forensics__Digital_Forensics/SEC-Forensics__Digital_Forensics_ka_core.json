@@ -1,0 +1,4 @@
+{
+  "title": "SEC-Forensics: Digital Forensics",
+  "KA Core": "1. Basic principles and methodologies for digital forensics\n2. System design for forensics\n3. Forensics in different situations: operating systems, file systems, application forensics, web\nforensics, network forensics, mobile device forensics, use of database auditing (See also: NC-\nSecurity)\n4. Attacks on forensics and preventing such attacks\n5. Incident handling processes\n6. Rules of evidence – general concepts and differences between jurisdictions (See also: SEP-\nSecurity)\n7. Legal issues: digital evidence protection and management, chains of custody, reporting, serving as\nan expert witness (See also: SEP-Security)\n262"
+}
