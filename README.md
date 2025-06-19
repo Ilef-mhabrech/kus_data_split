@@ -21,7 +21,7 @@ python3 kus_split.py
 ```
 
 🔹  `split_cs_core_to_files.py`
-Extrait uniquement les sections CS Core de chaque KU depuis le fichier kus.json et enregistre un fichier .json individuel par KU dans le dossier cs_core_split/.
+Extrait uniquement les sections CS Core de chaque KU depuis le fichier kus.json et enregistre un fichier .json individuel par KU dans le dossier output/cs_core_split/.
 
 ➡️ **Commande :**
 
@@ -29,19 +29,28 @@ Extrait uniquement les sections CS Core de chaque KU depuis le fichier kus.json 
 python3 split_cs_core_to_files.py
 ```
 🔹 'json_to_rdf.py'
-Convertit chaque fichier .json contenant un CS Core (généré dans cs_core_split/) en un fichier RDF Turtle (.ttl), stocké dans cs_core_rdf/.
+Convertit chaque fichier .json contenant un CS Core (généré dans output/cs_core_split/) en un fichier RDF Turtle (.ttl), stocké dans output/cs_core_rdf/.
 
 ➡️ **Commande :**
 ```bash
 python3 json_to_rdf.py 
 ```
+🔹 'json_to_txt.py'
+Convertit chaque fichier .json contenant un CS Core (généré dans output/cs_core_split/) en un fichier texte Turtle (.txt), stocké dans output/cs_core_txt/.
 
+➡️ **Commande :**
+```bash
+python3 json_to_txt.py 
+```
 📦 Résultat des traitements
 output/kus_split/ : contient les 4 fichiers .json par KU
 
-cs_core_split/ : contient un fichier .json par KU avec uniquement le CS Core
+output/cs_core_split/ : contient un fichier .json par KU avec uniquement le CS Core
 
-cs_core_rdf/ : contient un fichier .ttl par KU avec le graphe RDF (URI, titre, csCore)
+output/cs_core_rdf/ : contient un fichier .ttl par KU avec le graphe RDF (URI, titre, csCore)
+
+output/cs_core_txt : contient un fichier .txt par KU 
+
 
 💡 Dépendances
 Installe les dépendances dans un environnement virtuel :
